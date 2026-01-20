@@ -1,0 +1,65 @@
+[
+  {
+    "Name": "Adarsh Das",
+    "Email": "Unknown",
+    "Time": "00:32",
+    "Subject": "Office Closed Friday",
+    "Text": "Hi Team, Just a reminder that the office will be closed this Friday for the holiday. See you all on Monday. Regards, HR",
+    "IsThread": false,
+    "ThreadCount": 1
+  },
+  {
+    "Name": "devesh yadav",
+    "Email": "Unknown",
+    "Time": "Yesterday",
+    "Subject": "50% Off Software",
+    "Text": "Hello, Get 50% off our premium software if you buy today. Click the link below to verify the offer. Don't miss out! Best, Sales Rep",
+    "IsThread": false,
+    "ThreadCount": 1
+  },
+  {
+    "Name": "Aadarsh",
+    "Email": "Unknown",
+    "Time": "19 Jan",
+    "Subject": "Venue Confirmed: Q1 Project Review",
+    "Text": "Hi,This is a reminder that the Q1 Project Review will take place tomorrow at 10:00 AM.Venue: The Grand Hall, 3rd Floor.Please bring your laptops.Regards,Manager",
+    "IsThread": false,
+    "ThreadCount": 1
+  },
+  {
+    "Name": "rishi yadav",
+    "Email": "deveshyadavrishi@gmail.com",
+    "Time": "19 Jan 2026, 23:40",
+    "Subject": "Approval: New Laptop",
+    "Text": "Hi, My laptop is broken. Can I buy a new one for $800? Please reply Yes or No so I can order it. Best, John",
+    "IsThread": false,
+    "ThreadCount": 1
+  },
+  {
+    "Name": "Sambhav Gujral",
+    "Email": "Unknown",
+    "Time": "Yesterday",
+    "Subject": "URGENT : Server down",
+    "Text": "Hi, The main server is down. Customers cannot log in. Please fix this immediately. Thanks, Admin",
+    "IsThread": false,
+    "ThreadCount": 1
+  },
+  {
+    "Name": "droidrunclient",
+    "Email": "droidrunclient@gmail.com",
+    "Time": "2 days ago",
+    "Subject": "URGENT: Client Escalation",
+    "Text": "Team, We are seeing critical failures in the fact.py. Error logs attached. Who is on call? We need a fix ASAP. Severity: Level 1",
+    "IsThread": false,
+    "ThreadCount": 1
+  },
+  {
+    "Name": "droidrunclient@gmail.com",
+    "Email": "droidrunclient@gmail.com",
+    "Time": "2 days ago",
+    "Subject": "URGENT: Client Escalation Inbox",
+    "Text": "Team, We are seeing critical failures in the fact.py. Error logs attached. Who is on call? We need a fix ASAP. Severity: Level 1 --",
+    "IsThread": false,
+    "ThreadCount": 1
+  }
+]

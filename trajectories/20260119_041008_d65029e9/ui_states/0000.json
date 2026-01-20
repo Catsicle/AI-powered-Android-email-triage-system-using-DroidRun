@@ -1,0 +1,114 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "com.google.android.gm:id/drawer_container",
+    "className": "DrawerLayout",
+    "text": "com.google.android.gm:id/drawer_container",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.google.android.gm:id/content_pane",
+    "className": "ViewGroup",
+    "text": "com.google.android.gm:id/content_pane",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "",
+    "className": "ScrollView",
+    "text": "android.widget.ScrollView",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "com.google.android.gm:id/thread_list_view",
+    "className": "RecyclerView",
+    "text": "com.google.android.gm:id/thread_list_view",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, , Office Closed Sunday, , All, Just a heads up that re-intermediate dynamic metrics will be effective \nstarting next week. No action required from your end. Regards, HR -- Eric \nSloan Architectural technologist, , ,  on 18 Jan",
+    "bounds": "24,0,1056,125",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, , Tea chat, , Hi, Are you free this Tuesday between 2 PM and 4 PM for a quick sync \nregarding disintermediate magnetic web services? Let me know what works. -- \nWesley Crawford Industrial buyer, , ,  on 18 Jan",
+    "bounds": "24,131,1056,411",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, , URGENT: Client layoff, , Team, We are seeing critical failures in the present.py. Error logs \nattached. Who is on call? We need a fix ASAP. Severity: Level 1 -- David \nWeaver Designer, multimedia, , ,  on 18 Jan",
+    "bounds": "24,417,1056,697",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, , New company policy, , All, Just a heads up that incentivize proactive info-mediaries will be \neffective starting next week. No action required from your end. Regards, HR \n-- Richard Jackson Therapist, art, , ,  on 18 Jan",
+    "bounds": "24,703,1056,983",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, , Interview code check, , Hi, Are you free this Tuesday between 2 PM and 4 PM for a quick sync \nregarding synergize collaborative relationships? Let me know what works. -- \nPaige Middleton Psychologist, forensic, , ,  on 18 Jan",
+    "bounds": "24,989,1056,1269",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, , Critical: Database leak Attempt, , Team, We are seeing critical failures in the this.py. Error logs attached. \nWho is on call? We need a fix ASAP. Severity: Level 1 -- Annette Coleman \nGeoscientist, , ,  on 18 Jan, labels: Inbox, ",
+    "bounds": "24,1275,1056,1555",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, 4 messages, Code Review Request, , Hey, I can't access the facilitate distributed supply-chains folder. Can \nyou grant me read/write permissions? Thanks! -- Crystal Matthews Therapist, \nmusic, , ,  on 18 Jan",
+    "bounds": "24,1561,1056,1841",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, 3 messages, Welcome our new intern, , All, Just a heads up that matrix compelling bandwidth will be effective \nstarting next week. No action required from your end. Regards, HR -- \nJonathan White Armed forces logistics/support/administrative, , ,  on 18 Jan, labels: Inbox, ",
+    "bounds": "24,1847,1056,2127",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, 3 messages, URGENT: Client Escalation, , Team, We are seeing critical failures in the fact.py. Error logs attached. \nWho is on call? We need a fix ASAP. Severity: Level 1 -- Mike Perez \nCartographer, , ,  on 18 Jan, labels: Inbox, ",
+    "bounds": "24,2133,1056,2400",
+    "children": []
+  }
+]

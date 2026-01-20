@@ -1,0 +1,54 @@
+[
+  {
+    "type": "CodeActInputEvent"
+  },
+  {
+    "type": "CodeActResponseEvent",
+    "thought": "The precondition is met. The current app is Gmail and a list of emails is visible.\n\n**(Step 1) Agent Action:**",
+    "code": "long_press(17)",
+    "usage": {
+      "request_tokens": 2643,
+      "response_tokens": 40,
+      "total_tokens": 2786,
+      "requests": 1
+    }
+  },
+  {
+    "type": "CodeActCodeEvent",
+    "code": "long_press(17)"
+  },
+  {
+    "type": "CodeActOutputEvent",
+    "output": "Swiped from (540, 754) to (540, 754) in 1000 milliseconds\n"
+  },
+  {
+    "type": "CodeActInputEvent"
+  },
+  {
+    "type": "CodeActResponseEvent",
+    "thought": "**(Step 2) Agent Action:**",
+    "code": "click(14)\ncomplete(success=True, reason=\"Successfully long-pressed the first email and tapped the Archive icon.\")",
+    "usage": {
+      "request_tokens": 3862,
+      "response_tokens": 41,
+      "total_tokens": 3948,
+      "requests": 1
+    }
+  },
+  {
+    "type": "CodeActCodeEvent",
+    "code": "click(14)\ncomplete(success=True, reason=\"Successfully long-pressed the first email and tapped the Archive icon.\")"
+  },
+  {
+    "type": "CodeActEndEvent",
+    "success": true,
+    "reason": "Successfully long-pressed the first email and tapped the Archive icon.",
+    "code_executions": 2
+  },
+  {
+    "type": "CodeActEndEvent",
+    "success": true,
+    "reason": "Successfully long-pressed the first email and tapped the Archive icon.",
+    "code_executions": 2
+  }
+]

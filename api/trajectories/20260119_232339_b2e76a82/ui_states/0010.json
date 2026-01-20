@@ -1,0 +1,162 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "com.google.android.calendar:id/drawer_layout",
+    "className": "DrawerLayout",
+    "text": "com.google.android.calendar:id/drawer_layout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.google.android.calendar:id/main_content_view",
+    "className": "FrameLayout",
+    "text": "com.google.android.calendar:id/main_content_view",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "",
+    "className": "ImageButton",
+    "text": "Show Calendar List and Settings drawer",
+    "bounds": "12,119,180,287",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "com.google.android.calendar:id/date_picker_button",
+    "className": "LinearLayout",
+    "text": "January",
+    "bounds": "181,119,480,287",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "com.google.android.calendar:id/date_picker_text_view",
+    "className": "TextView",
+    "text": "January",
+    "bounds": "193,119,408,287",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.google.android.calendar:id/action_search",
+    "className": "Button",
+    "text": "Search",
+    "bounds": "480,131,624,275",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "com.google.android.calendar:id/action_today",
+    "className": "Button",
+    "text": "Jump to Today",
+    "bounds": "624,131,768,275",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "com.google.android.calendar:id/action_tasks",
+    "className": "Button",
+    "text": "Open Tasks",
+    "bounds": "768,131,912,275",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "com.google.android.calendar:id/selected_account_disc",
+    "className": "FrameLayout",
+    "text": "Signed in as Aadarsh adarshscandium@gmail.com\nGoogle One account.\nAccount and settings.",
+    "bounds": "912,131,1080,275",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "",
+    "className": "RecyclerView",
+    "text": "android.support.v7.widget.RecyclerView",
+    "bounds": "0,299,1080,2400",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "",
+    "className": "View",
+    "text": "Thursday 15 January 2026, Open Schedule View",
+    "bounds": "0,299,192,461",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,479,1080,2400",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "com.google.android.calendar:id/coordinator_layout",
+    "className": "ViewGroup",
+    "text": "com.google.android.calendar:id/coordinator_layout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "com.google.android.calendar:id/fab_container",
+    "className": "ComposeView",
+    "text": "com.google.android.calendar:id/fab_container",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 16,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 17,
+    "resourceId": "",
+    "className": "View",
+    "text": "Creation menu",
+    "bounds": "840,2052,1008,2220",
+    "children": []
+  },
+  {
+    "index": 18,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "24,2024,1056,2244",
+    "children": []
+  },
+  {
+    "index": 19,
+    "resourceId": "com.google.android.calendar:id/snackbar_text",
+    "className": "TextView",
+    "text": "Saved 'Coffee chat' on Mon, 19 Jan.",
+    "bounds": "72,2024,654,2244",
+    "children": []
+  },
+  {
+    "index": 20,
+    "resourceId": "com.google.android.calendar:id/snackbar_action",
+    "className": "Button",
+    "text": "Invite via link",
+    "bounds": "678,2062,1032,2206",
+    "children": []
+  }
+]

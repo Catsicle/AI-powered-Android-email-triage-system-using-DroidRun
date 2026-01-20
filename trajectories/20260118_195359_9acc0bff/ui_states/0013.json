@@ -1,0 +1,130 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "",
+    "className": "ImageButton",
+    "text": "Back",
+    "bounds": "11,104,165,258",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.google.android.calendar:id/search_text",
+    "className": "EditText",
+    "text": "Conference Room B",
+    "bounds": "176,115,926,247",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "com.google.android.calendar:id/clear",
+    "className": "ImageButton",
+    "text": "Clear search",
+    "bounds": "926,115,1058,247",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "com.google.android.calendar:id/suggestions",
+    "className": "RecyclerView",
+    "text": "com.google.android.calendar:id/suggestions",
+    "bounds": "0,269,1080,2400",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "",
+    "className": "ViewGroup",
+    "text": "android.view.ViewGroup",
+    "bounds": "0,291,1080,423",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.google.android.calendar:id/text",
+    "className": "TextView",
+    "text": "Nearby places",
+    "bounds": "0,291,1080,423",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "",
+    "className": "Button",
+    "text": "android.widget.Button",
+    "bounds": "0,423,1080,597",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "com.google.android.calendar:id/first_line_text",
+    "className": "TextView",
+    "text": "Conference Room B, Airport Boulevard",
+    "bounds": "176,450,949,506",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "com.google.android.calendar:id/second_line_text",
+    "className": "TextView",
+    "text": "Houston, TX, USA",
+    "bounds": "176,520,949,569",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "",
+    "className": "Button",
+    "text": "android.widget.Button",
+    "bounds": "0,597,1080,837",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "com.google.android.calendar:id/first_line_text",
+    "className": "TextView",
+    "text": "Conference Room, Bhu Mandir, Radha Kishnpura",
+    "bounds": "176,624,1036,746",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "com.google.android.calendar:id/second_line_text",
+    "className": "TextView",
+    "text": "Rajasthan, India",
+    "bounds": "176,760,1036,809",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "",
+    "className": "Button",
+    "text": "android.widget.Button",
+    "bounds": "0,837,1080,1143",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "com.google.android.calendar:id/first_line_text",
+    "className": "TextView",
+    "text": "Jay Conference Bryant Park - Conference Center NYC, Event Space & Meeting Space Rentals, and Concourse",
+    "bounds": "176,864,1036,1052",
+    "children": []
+  },
+  {
+    "index": 16,
+    "resourceId": "com.google.android.calendar:id/second_line_text",
+    "className": "TextView",
+    "text": "West 39th Street, New York, NY, USA",
+    "bounds": "176,1066,1036,1115",
+    "children": []
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "com.google.android.calendar:id/drawer_layout",
+    "className": "DrawerLayout",
+    "text": "com.google.android.calendar:id/drawer_layout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.google.android.calendar:id/main_content_view",
+    "className": "FrameLayout",
+    "text": "com.google.android.calendar:id/main_content_view",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "com.google.android.calendar:id/coordinator_layout",
+    "className": "ViewGroup",
+    "text": "com.google.android.calendar:id/coordinator_layout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "com.google.android.calendar:id/fab_container",
+    "className": "ComposeView",
+    "text": "com.google.android.calendar:id/fab_container",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "617,1566,1014,2270",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "617,1566,1014,1720",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Birthday",
+    "bounds": "771,1610,948,1676",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "700,1731,1014,1885",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Task",
+    "bounds": "854,1775,948,1841",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "678,1896,1014,2050",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Event",
+    "bounds": "832,1940,948,2006",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "",
+    "className": "View",
+    "text": "Creation menu",
+    "bounds": "860,2072,1014,2226",
+    "children": []
+  }
+]

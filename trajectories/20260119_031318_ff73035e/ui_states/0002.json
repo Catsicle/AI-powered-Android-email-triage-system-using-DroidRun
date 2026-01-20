@@ -1,0 +1,242 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "",
+    "className": "ViewGroup",
+    "text": "android.view.ViewGroup",
+    "bounds": "0,0,1080,2268",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.oplus.battery:id/coui_toolbar_back_view",
+    "className": "ImageButton",
+    "text": "Navigate up",
+    "bounds": "12,137,156,293",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Battery",
+    "bounds": "168,177,1032,250",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "com.oplus.battery:id/recycler_view",
+    "className": "RecyclerView",
+    "text": "com.oplus.battery:id/recycler_view",
+    "bounds": "0,294,1080,2268",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "",
+    "className": "RelativeLayout",
+    "text": "android.widget.RelativeLayout",
+    "bounds": "0,294,1080,585",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.oplus.battery:id/battery_level_text",
+    "className": "TextView",
+    "text": "100%",
+    "bounds": "72,342,248,447",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "com.oplus.battery:id/battery_left_time_text",
+    "className": "TextView",
+    "text": "Fully charged",
+    "bounds": "266,386,481,435",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "android.widget.LinearLayout",
+    "bounds": "0,633,1080,789",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "android:id/title",
+    "className": "TextView",
+    "text": "Battery mode",
+    "bounds": "96,678,386,743",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "com.oplus.battery:id/assignment",
+    "className": "TextView",
+    "text": "Balanced mode",
+    "bounds": "646,682,936,739",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "android.widget.LinearLayout",
+    "bounds": "0,885,1080,1035",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "android:id/title",
+    "className": "TextView",
+    "text": "Battery health",
+    "bounds": "96,930,398,995",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "android.widget.LinearLayout",
+    "bounds": "0,1035,1080,1185",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "android:id/title",
+    "className": "TextView",
+    "text": "Power saving settings",
+    "bounds": "96,1074,572,1139",
+    "children": []
+  },
+  {
+    "index": 16,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "android.widget.LinearLayout",
+    "bounds": "0,1233,1080,1330",
+    "children": []
+  },
+  {
+    "index": 17,
+    "resourceId": "android:id/title",
+    "className": "TextView",
+    "text": "Battery usage",
+    "bounds": "96,1257,319,1306",
+    "children": []
+  },
+  {
+    "index": 18,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "android.widget.LinearLayout",
+    "bounds": "671,1253,1012,1310",
+    "children": []
+  },
+  {
+    "index": 19,
+    "resourceId": "com.oplus.battery:id/text_in_composition",
+    "className": "TextView",
+    "text": "Last 24 hours",
+    "bounds": "699,1257,918,1306",
+    "children": []
+  },
+  {
+    "index": 20,
+    "resourceId": "",
+    "className": "RelativeLayout",
+    "text": "android.widget.RelativeLayout",
+    "bounds": "48,1330,1032,1951",
+    "children": []
+  },
+  {
+    "index": 21,
+    "resourceId": "com.oplus.battery:id/charge_text",
+    "className": "TextView",
+    "text": "Charging",
+    "bounds": "126,1852,247,1893",
+    "children": []
+  },
+  {
+    "index": 22,
+    "resourceId": "com.oplus.battery:id/normal_use_text",
+    "className": "TextView",
+    "text": "Normal",
+    "bounds": "494,1852,591,1893",
+    "children": []
+  },
+  {
+    "index": 23,
+    "resourceId": "com.oplus.battery:id/high_consumption_text",
+    "className": "TextView",
+    "text": "High",
+    "bounds": "898,1852,960,1893",
+    "children": []
+  },
+  {
+    "index": 24,
+    "resourceId": "",
+    "className": "RelativeLayout",
+    "text": "android.widget.RelativeLayout",
+    "bounds": "48,1951,1032,2072",
+    "children": []
+  },
+  {
+    "index": 25,
+    "resourceId": "com.oplus.battery:id/tips_text",
+    "className": "TextView",
+    "text": "Battery usage by app",
+    "bounds": "96,1999,509,2048",
+    "children": []
+  },
+  {
+    "index": 26,
+    "resourceId": "",
+    "className": "RelativeLayout",
+    "text": "android.widget.RelativeLayout",
+    "bounds": "0,2072,1080,2268",
+    "children": []
+  },
+  {
+    "index": 27,
+    "resourceId": "com.oplus.battery:id/sipper_list",
+    "className": "RecyclerView",
+    "text": "com.oplus.battery:id/sipper_list",
+    "bounds": "0,2072,1080,2268",
+    "children": []
+  },
+  {
+    "index": 28,
+    "resourceId": "com.oplus.battery:id/layout_power_sipper_pref",
+    "className": "LinearLayout",
+    "text": "com.oplus.battery:id/layout_power_sipper_pref",
+    "bounds": "0,2072,1080,2268",
+    "children": []
+  },
+  {
+    "index": 29,
+    "resourceId": "com.oplus.battery:id/title",
+    "className": "TextView",
+    "text": "YouTube Music",
+    "bounds": "252,2108,584,2173",
+    "children": []
+  },
+  {
+    "index": 30,
+    "resourceId": "com.oplus.battery:id/summary",
+    "className": "TextView",
+    "text": "12.8%",
+    "bounds": "252,2182,366,2239",
+    "children": []
+  }
+]

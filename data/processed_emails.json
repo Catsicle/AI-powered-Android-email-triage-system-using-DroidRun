@@ -1,0 +1,82 @@
+{
+  "urgent": [
+    {
+      "id": "urgent_0",
+      "name": "Sambhav Gujral",
+      "email": "Unknown",
+      "subject": "URGENT : Server down",
+      "date": "Yesterday",
+      "time": "TBD",
+      "summary": "Sambhav Gujral, as Admin, reports a critical server outage preventing customer logins and requests immediate resolution.",
+      "category": "urgent"
+    },
+    {
+      "id": "urgent_1",
+      "name": "droidrunclient",
+      "email": "droidrunclient@gmail.com",
+      "subject": "URGENT: Client Escalation",
+      "date": "TBD",
+      "time": "TBD",
+      "summary": "droidrunclient is reporting critical failures in fact.py and requests immediate action from the on-call team to fix a Level 1 severity issue.",
+      "category": "urgent"
+    },
+    {
+      "id": "urgent_2",
+      "name": "droidrunclient@gmail.com",
+      "email": "droidrunclient@gmail.com",
+      "subject": "URGENT: Client Escalation Inbox",
+      "date": "TBD",
+      "time": "TBD",
+      "summary": "Droidrunclient is reporting critical failures in fact.py and requires immediate assistance to resolve the issue ASAP.",
+      "category": "urgent"
+    }
+  ],
+  "decisions": [
+    {
+      "id": "decision_0",
+      "name": "rishi yadav",
+      "email": "deveshyadavrishi@gmail.com",
+      "subject": "Approval: New Laptop",
+      "date": "19 Jan 2026",
+      "time": "23:40",
+      "summary": "John is requesting approval to purchase a new laptop for $800 because his current one is broken, requiring a Yes or No response.",
+      "category": "decisions"
+    }
+  ],
+  "calendar": [
+    {
+      "id": "calendar_0",
+      "name": "Aadarsh",
+      "email": "Unknown",
+      "subject": "Venue Confirmed: Q1 Project Review",
+      "date": "tomorrow",
+      "time": "10:00 AM",
+      "purpose": "Q1 Project Review meeting organized by Manager, taking place at The Grand Hall, 3rd Floor, for project stakeholders.",
+      "category": "calendar"
+    }
+  ],
+  "info": [
+    {
+      "id": "info_0",
+      "name": "Adarsh Das",
+      "email": "Unknown",
+      "subject": "Office Closed Friday",
+      "date": "TBD",
+      "time": "00:32",
+      "summary": "Adarsh Das from HR sent a reminder that the office will be closed this Friday for a holiday. The team is expected to return on Monday.",
+      "category": "info"
+    }
+  ],
+  "spam": [
+    {
+      "id": "spam_0",
+      "name": "devesh yadav",
+      "email": "Unknown",
+      "subject": "50% Off Software",
+      "date": "Yesterday",
+      "time": "TBD",
+      "summary": "This is a promotional email from a sales representative offering 50% off premium software if purchased today, urging the recipient to click a link to verify the offer.",
+      "category": "spam"
+    }
+  ]
+}

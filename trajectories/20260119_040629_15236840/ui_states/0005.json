@@ -1,0 +1,170 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "com.google.android.gm:id/drawer_container",
+    "className": "DrawerLayout",
+    "text": "com.google.android.gm:id/drawer_container",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.google.android.gm:id/content_pane",
+    "className": "ViewGroup",
+    "text": "com.google.android.gm:id/content_pane",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "",
+    "className": "ScrollView",
+    "text": "android.widget.ScrollView",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "com.google.android.gm:id/textButton",
+    "className": "Button",
+    "text": "Select all",
+    "bounds": "36,299,458,443",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "com.google.android.gm:id/thread_list_view",
+    "className": "RecyclerView",
+    "text": "com.google.android.gm:id/thread_list_view",
+    "bounds": "0,336,1080,2400",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, , Tea chat, , Hi, Are you free this Tuesday between 2 PM and 4 PM for a quick sync \nregarding disintermediate magnetic web services? Let me know what works. -- \nWesley Crawford Industrial buyer, , ,  on 18 Jan",
+    "bounds": "24,336,1056,506",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, , URGENT: Client layoff, , Team, We are seeing critical failures in the present.py. Error logs \nattached. Who is on call? We need a fix ASAP. Severity: Level 1 -- David \nWeaver Designer, multimedia, , ,  on 18 Jan",
+    "bounds": "24,512,1056,792",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, , New company policy, , All, Just a heads up that incentivize proactive info-mediaries will be \neffective starting next week. No action required from your end. Regards, HR \n-- Richard Jackson Therapist, art, , ,  on 18 Jan",
+    "bounds": "24,798,1056,1078",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, , Interview code check, , Hi, Are you free this Tuesday between 2 PM and 4 PM for a quick sync \nregarding synergize collaborative relationships? Let me know what works. -- \nPaige Middleton Psychologist, forensic, , ,  on 18 Jan",
+    "bounds": "24,1084,1056,1364",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, , Critical: Database leak Attempt, , Team, We are seeing critical failures in the this.py. Error logs attached. \nWho is on call? We need a fix ASAP. Severity: Level 1 -- Annette Coleman \nGeoscientist, , ,  on 18 Jan, labels: Inbox, ",
+    "bounds": "24,1370,1056,1650",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, 4 messages, Code Review Request, , Hey, I can't access the facilitate distributed supply-chains folder. Can \nyou grant me read/write permissions? Thanks! -- Crystal Matthews Therapist, \nmusic, , ,  on 18 Jan, labels: Inbox, ",
+    "bounds": "24,1656,1056,1936",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, 3 messages, URGENT: Client Escalation, , Team, We are seeing critical failures in the fact.py. Error logs attached. \nWho is on call? We need a fix ASAP. Severity: Level 1 -- Mike Perez \nCartographer, , ,  on 18 Jan, labels: Inbox, ",
+    "bounds": "24,1942,1056,2222",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , droidrunclient, 2 messages, New expense policy, , All, Just a heads up that engineer world-class bandwidth will be effective \nstarting next week. No action required from your end. Regards, HR -- Victor \nWest Teacher, special educational needs, , ,  on 18 Jan",
+    "bounds": "24,2228,1056,2400",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "com.google.android.gm:id/action_mode_bar",
+    "className": "ViewGroup",
+    "text": "com.google.android.gm:id/action_mode_bar",
+    "bounds": "0,0,1080,299",
+    "children": []
+  },
+  {
+    "index": 16,
+    "resourceId": "com.google.android.gm:id/action_mode_close_button",
+    "className": "ImageView",
+    "text": "Done",
+    "bounds": "0,131,168,275",
+    "children": []
+  },
+  {
+    "index": 17,
+    "resourceId": "com.google.android.gm:id/action_bar_title",
+    "className": "TextView",
+    "text": "1",
+    "bounds": "216,155,241,251",
+    "children": []
+  },
+  {
+    "index": 18,
+    "resourceId": "com.google.android.gm:id/archive",
+    "className": "Button",
+    "text": "Archive",
+    "bounds": "528,131,672,275",
+    "children": []
+  },
+  {
+    "index": 19,
+    "resourceId": "com.google.android.gm:id/delete",
+    "className": "Button",
+    "text": "Delete",
+    "bounds": "672,131,816,275",
+    "children": []
+  },
+  {
+    "index": 20,
+    "resourceId": "com.google.android.gm:id/unread",
+    "className": "Button",
+    "text": "Mark as unread",
+    "bounds": "816,131,960,275",
+    "children": []
+  },
+  {
+    "index": 21,
+    "resourceId": "",
+    "className": "ImageView",
+    "text": "More options",
+    "bounds": "960,131,1080,275",
+    "children": []
+  }
+]

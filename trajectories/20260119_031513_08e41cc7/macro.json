@@ -1,0 +1,45 @@
+{
+  "version": "1.0",
+  "description": "\n    1. Tap the search bar and type \"is:unread\" and hit search/enter.\n    2. Tap the first/top email to open it.\n       - IF the list is empty, return an EMPTY 'EmailList' and STOP.\n    \n    3. EXTRACT the following data. If missing, use \"Unknown\":\n       - Name: Sender display name\n       - Email: Sender email address (in < > brackets)\n       - Subject: Email subject line\n       - Time: Timestamp (top right)\n       - Text: Main email body content\n    \n    4. Access specific UI elements by ID or text content.\n    5. Tap 'Back' to return to email list.\n    6. Return extracted data.\n    ",
+  "timestamp": "20260119_031727",
+  "total_actions": 4,
+  "actions": [
+    {
+      "type": "KeyPressActionEvent",
+      "action_type": "key_press",
+      "description": "Pressed key ENTER",
+      "keycode": 66,
+      "key_name": "ENTER"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 18: 'is:unread' (TextView) at coordinates (624, 568)",
+      "x": 624,
+      "y": 568,
+      "element_index": 18,
+      "element_text": "is:unread",
+      "element_bounds": "192,532,1056,605"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 17: 'Unread, , , droidrunclient, 4 messages, Coffee chat, , Hi, Are you free this Tuesday between 2 PM and 4 PM for a quick sync \nregarding integrate sticky channels? Let me know what works. -- Chad Smith \nSocial researcher, , ,  on 18 Jan, labels: Inbox, ' (FrameLayout) at coordinates (540, 754)",
+      "x": 540,
+      "y": 754,
+      "element_index": 17,
+      "element_text": "Unread, , , droidrunclient, 4 messages, Coffee chat, , Hi, Are you free this Tuesday between 2 PM and 4 PM for a quick sync \nregarding integrate sticky channels? Let me know what works. -- Chad Smith \nSocial researcher, , ,  on 18 Jan, labels: Inbox, ",
+      "element_bounds": "24,614,1056,894"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 48: 'Navigate up' (ImageButton) at coordinates (84, 203)",
+      "x": 84,
+      "y": 203,
+      "element_index": 48,
+      "element_text": "Navigate up",
+      "element_bounds": "0,119,168,287"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "description": "Close the Google Calendar app and return to home screen",
+  "timestamp": "20260119_231806",
+  "total_actions": 1,
+  "actions": [
+    {
+      "type": "KeyPressActionEvent",
+      "action_type": "key_press",
+      "description": "Pressed key HOME",
+      "keycode": 3,
+      "key_name": "HOME"
+    }
+  ]
+}

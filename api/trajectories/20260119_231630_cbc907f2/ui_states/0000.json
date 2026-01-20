@@ -1,0 +1,66 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "144,775,936,1447",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "",
+    "className": "ViewGroup",
+    "text": "android.view.ViewGroup",
+    "bounds": "144,775,936,1447",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.google.android.calendar:id/header_title",
+    "className": "TextView",
+    "text": "Select time",
+    "bounds": "216,823,411,879",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "",
+    "className": "EditText",
+    "text": "14",
+    "bounds": "216,931,504,1171",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "",
+    "className": "View",
+    "text": "30",
+    "bounds": "576,931,864,1171",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "com.google.android.calendar:id/material_timepicker_mode_button",
+    "className": "Button",
+    "text": "Switch to clock mode for the time input.",
+    "bounds": "180,1297,324,1441",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.google.android.calendar:id/material_timepicker_cancel_button",
+    "className": "Button",
+    "text": "Cancel",
+    "bounds": "463,1303,696,1447",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "com.google.android.calendar:id/material_timepicker_ok_button",
+    "className": "Button",
+    "text": "OK",
+    "bounds": "720,1303,912,1447",
+    "children": []
+  }
+]

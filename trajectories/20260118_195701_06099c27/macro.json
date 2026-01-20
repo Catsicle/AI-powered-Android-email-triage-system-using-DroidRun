@@ -1,0 +1,176 @@
+{
+  "version": "1.0",
+  "description": "Open the Google Calendar app and schedule the following event:\n\nEvent Details:\n- Title: Security Audit\n- Date & Time: 2026-01-22 at 2:00 PM\n- Location: Main Hall\n- Description: Meeting with Sarah Connor. Purpose: Review protocols\n\nExecution Steps:\n1. Launch the 'Google Calendar' app\n2. Tap the '+' (Create/Add) button at the bottom right\n3. Select 'Event' from the options\n4. In the 'Add title' field, type: \"Security Audit\"\n5. Set the date to \"2026-01-22\"\n6. Set the time to \"2:00 PM\"\n7. Tap 'Add location' and enter: \"Main Hall\"\n8. Scroll down if needed to find the description field\n9. Tap 'Add description' and type: \"Meeting with Sarah Connor. Purpose: Review protocols\"\n10. Verify all details are correct\n11. Tap the 'Save' button\n12. Wait for confirmation and return to the main calendar view\n\nImportant Notes:\n- Do NOT add any guests to this event\n- Ensure all fields are filled accurately\n- Wait for UI to stabilize between actions",
+  "timestamp": "20260118_195945",
+  "total_actions": 18,
+  "actions": [
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 21: 'Tuesday, 20 Jan  \u2022  10:00 \u2013 11:00 am' (TextView) at coordinates (595, 2039)",
+      "x": 595,
+      "y": 2039,
+      "element_index": 21,
+      "element_text": "Tuesday, 20 Jan  \u2022  10:00 \u2013 11:00 am",
+      "element_bounds": "176,2006,1014,2072"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 28: 'Tue, 20 Jan, 2026' (TextView) at coordinates (513, 1147)",
+      "x": 513,
+      "y": 1147,
+      "element_index": 28,
+      "element_text": "Tue, 20 Jan, 2026",
+      "element_bounds": "176,1081,850,1213"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 42: '22' (TextView) at coordinates (661, 1451)",
+      "x": 661,
+      "y": 1451,
+      "element_index": 42,
+      "element_text": "22",
+      "element_bounds": "606,1396,716,1506"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 53: 'OK' (Button) at coordinates (881, 1819)",
+      "x": 881,
+      "y": 1819,
+      "element_index": 53,
+      "element_text": "OK",
+      "element_bounds": "793,1753,969,1885"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 29: '10:00 am' (TextView) at coordinates (943, 1147)",
+      "x": 943,
+      "y": 1147,
+      "element_index": 29,
+      "element_text": "10:00 am",
+      "element_bounds": "850,1081,1036,1213"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 8: 'p.m.' (RadioButton) at coordinates (853, 818)",
+      "x": 853,
+      "y": 818,
+      "element_index": 8,
+      "element_text": "p.m.",
+      "element_bounds": "782,755,925,881"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 14: '2' (TextView) at coordinates (779, 1173)",
+      "x": 779,
+      "y": 1173,
+      "element_index": 14,
+      "element_text": "2",
+      "element_bounds": "713,1107,845,1239"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 5: '00' (View) at coordinates (617, 749)",
+      "x": 617,
+      "y": 749,
+      "element_index": 5,
+      "element_text": "00",
+      "element_bounds": "485,639,749,859"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 24: 'OK' (Button) at coordinates (881, 1800)",
+      "x": 881,
+      "y": 1800,
+      "element_index": 24,
+      "element_text": "OK",
+      "element_bounds": "793,1734,969,1866"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 10: 'Project Kickoff' (EditText) at coordinates (595, 320)",
+      "x": 595,
+      "y": 320,
+      "element_index": 10,
+      "element_text": "Project Kickoff",
+      "element_bounds": "176,242,1014,398"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 10: 'Project Kickoff' (EditText) at coordinates (595, 320)",
+      "x": 595,
+      "y": 320,
+      "element_index": 10,
+      "element_text": "Project Kickoff",
+      "element_bounds": "176,242,1014,398"
+    },
+    {
+      "type": "InputTextActionEvent",
+      "action_type": "input_text",
+      "description": "Input text: 'Security Audit' (clear=True)",
+      "text": "Security Audit"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 48: 'Conference Room B' (TextView) at coordinates (552, 2206)",
+      "x": 552,
+      "y": 2206,
+      "element_index": 48,
+      "element_text": "Conference Room B",
+      "element_bounds": "176,2178,928,2234"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 48: 'Conference Room B' (TextView) at coordinates (552, 2206)",
+      "x": 552,
+      "y": 2206,
+      "element_index": 48,
+      "element_text": "Conference Room B",
+      "element_bounds": "176,2178,928,2234"
+    },
+    {
+      "type": "InputTextActionEvent",
+      "action_type": "input_text",
+      "description": "Input text: 'Main Hall' (clear=True)",
+      "text": "Main Hall"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 10: 'Main Hall' (EditText) at coordinates (595, 320)",
+      "x": 595,
+      "y": 320,
+      "element_index": 10,
+      "element_text": "Main Hall",
+      "element_bounds": "176,242,1014,398"
+    },
+    {
+      "type": "InputTextActionEvent",
+      "action_type": "input_text",
+      "description": "Input text: 'Security Audit' (clear=True)",
+      "text": "Security Audit"
+    },
+    {
+      "type": "SwipeActionEvent",
+      "action_type": "swipe",
+      "description": "Swipe from (540, 600) to (540, 200) in 1000 milliseconds",
+      "start_x": 540,
+      "start_y": 600,
+      "end_x": 540,
+      "end_y": 200,
+      "duration_ms": 1000
+    }
+  ]
+}

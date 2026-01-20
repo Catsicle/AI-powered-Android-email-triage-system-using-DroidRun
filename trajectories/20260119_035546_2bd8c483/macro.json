@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "description": "\n    1. Open the Gmail app.\n    2. Tap the search bar.\n    3. Type \"is:unread\" and hit search/enter.\n    4. Wait for the results to load.\n    5. STOP. Do not click any emails yet.\n    ",
+  "timestamp": "20260119_035644",
+  "total_actions": 5,
+  "actions": [
+    {
+      "type": "StartAppEvent",
+      "action_type": "start_app",
+      "description": "Start app com.google.android.gm",
+      "package": "com.google.android.gm",
+      "activity": ".ConversationListActivityGmail"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 6: 'Search in emails' (EditText) at coordinates (535, 203)",
+      "x": 535,
+      "y": 203,
+      "element_index": 6,
+      "element_text": "Search in emails",
+      "element_bounds": "180,119,891,287"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 7: 'Search in emails' (EditText) at coordinates (564, 203)",
+      "x": 564,
+      "y": 203,
+      "element_index": 7,
+      "element_text": "Search in emails",
+      "element_bounds": "192,131,936,275"
+    },
+    {
+      "type": "InputTextActionEvent",
+      "action_type": "input_text",
+      "description": "Input text: 'is:unread' (clear=True)",
+      "text": "is:unread"
+    },
+    {
+      "type": "KeyPressActionEvent",
+      "action_type": "key_press",
+      "description": "Pressed key ENTER",
+      "keycode": 66,
+      "key_name": "ENTER"
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "com.google.android.calendar:id/drawer_layout",
+    "className": "DrawerLayout",
+    "text": "com.google.android.calendar:id/drawer_layout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.google.android.calendar:id/main_content_view",
+    "className": "FrameLayout",
+    "text": "com.google.android.calendar:id/main_content_view",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "com.google.android.calendar:id/coordinator_layout",
+    "className": "ViewGroup",
+    "text": "com.google.android.calendar:id/coordinator_layout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,107,1080,2400",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "com.google.android.calendar:id/close",
+    "className": "ImageButton",
+    "text": "Cancel",
+    "bounds": "12,119,180,287",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.google.android.calendar:id/drag_handle",
+    "className": "ImageButton",
+    "text": "Collapse event sheet",
+    "bounds": "450,107,630,251",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "com.google.android.calendar:id/save",
+    "className": "Button",
+    "text": "Save",
+    "bounds": "768,131,1032,275",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "com.google.android.calendar:id/expanded_recycler",
+    "className": "RecyclerView",
+    "text": "com.google.android.calendar:id/expanded_recycler",
+    "bounds": "0,269,1080,2247",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "com.google.android.calendar:id/title",
+    "className": "EditText",
+    "text": "Venue Confirmed: Q1 Project Review",
+    "bounds": "192,269,1008,536",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "android.widget.LinearLayout",
+    "bounds": "0,536,1080,728",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "com.google.android.calendar:id/tab_carousel",
+    "className": "RecyclerView",
+    "text": "com.google.android.calendar:id/tab_carousel",
+    "bounds": "0,560,1080,704",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Event",
+    "bounds": "192,560,375,704",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Task",
+    "bounds": "399,560,560,704",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Birthday",
+    "bounds": "584,560,825,704",
+    "children": []
+  },
+  {
+    "index": 16,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,728,1080,776",
+    "children": []
+  },
+  {
+    "index": 17,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "android.widget.LinearLayout",
+    "bounds": "0,776,1080,1088",
+    "children": []
+  },
+  {
+    "index": 18,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "android.widget.LinearLayout",
+    "bounds": "0,776,1080,920",
+    "children": []
+  },
+  {
+    "index": 19,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "adarshscandium@gmail.com",
+    "bounds": "192,828,802,892",
+    "children": []
+  },
+  {
+    "index": 20,
+    "resourceId": "",
+    "className": "RecyclerView",
+    "text": "android.support.v7.widget.RecyclerView",
+    "bounds": "0,920,1080,1088",
+    "children": []
+  },
+  {
+    "index": 21,
+    "resourceId": "",
+    "className": "Button",
+    "text": "My calendar",
+    "bounds": "192,920,569,1064",
+    "children": []
+  },
+  {
+    "index": 22,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Family",
+    "bounds": "593,920,914,1064",
+    "children": []
+  },
+  {
+    "index": 23,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,1088,1080,1136",
+    "children": []
+  },
+  {
+    "index": 24,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "android.widget.LinearLayout",
+    "bounds": "0,1136,1080,1568",
+    "children": []
+  },
+  {
+    "index": 25,
+    "resourceId": "com.google.android.calendar:id/all_day_tile",
+    "className": "ViewGroup",
+    "text": "com.google.android.calendar:id/all_day_tile",
+    "bounds": "0,1136,1080,1280",
+    "children": []
+  },
+  {
+    "index": 26,
+    "resourceId": "com.google.android.calendar:id/first_line_text",
+    "className": "TextView",
+    "text": "All-day",
+    "bounds": "192,1178,348,1238",
+    "children": []
+  },
+  {
+    "index": 27,
+    "resourceId": "",
+    "className": "Switch",
+    "text": "android.widget.Switch",
+    "bounds": "828,1136,1080,1280",
+    "children": []
+  },
+  {
+    "index": 28,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Wed, 21 Jan 2026",
+    "bounds": "192,1280,888,1424",
+    "children": []
+  },
+  {
+    "index": 29,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "10:00",
+    "bounds": "888,1280,1032,1424",
+    "children": []
+  },
+  {
+    "index": 30,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Wed, 21 Jan 2026",
+    "bounds": "192,1424,888,1568",
+    "children": []
+  },
+  {
+    "index": 31,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "11:00",
+    "bounds": "888,1424,1032,1568",
+    "children": []
+  },
+  {
+    "index": 32,
+    "resourceId": "",
+    "className": "Button",
+    "text": "android.widget.Button",
+    "bounds": "0,1568,1080,1712",
+    "children": []
+  },
+  {
+    "index": 33,
+    "resourceId": "com.google.android.calendar:id/first_line_text",
+    "className": "TextView",
+    "text": "India Standard Time",
+    "bounds": "192,1610,1032,1670",
+    "children": []
+  },
+  {
+    "index": 34,
+    "resourceId": "",
+    "className": "Button",
+    "text": "android.widget.Button",
+    "bounds": "0,1712,1080,1856",
+    "children": []
+  },
+  {
+    "index": 35,
+    "resourceId": "com.google.android.calendar:id/first_line_text",
+    "className": "TextView",
+    "text": "Does not repeat",
+    "bounds": "192,1754,1032,1814",
+    "children": []
+  },
+  {
+    "index": 36,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,1856,1080,1904",
+    "children": []
+  },
+  {
+    "index": 37,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "Add people",
+    "bounds": "0,1904,1080,2048",
+    "children": []
+  },
+  {
+    "index": 38,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Add people",
+    "bounds": "192,1939,443,2012",
+    "children": []
+  },
+  {
+    "index": 39,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "android.widget.LinearLayout",
+    "bounds": "0,2048,1080,2192",
+    "children": []
+  },
+  {
+    "index": 40,
+    "resourceId": "",
+    "className": "Button",
+    "text": "View schedules",
+    "bounds": "192,2048,593,2192",
+    "children": []
+  },
+  {
+    "index": 41,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,2192,1080,2240",
+    "children": []
+  },
+  {
+    "index": 42,
+    "resourceId": "com.google.android.calendar:id/conferencing_segment",
+    "className": "LinearLayout",
+    "text": "com.google.android.calendar:id/conferencing_segment",
+    "bounds": "0,2240,1080,2247",
+    "children": []
+  },
+  {
+    "index": 43,
+    "resourceId": "",
+    "className": "Button",
+    "text": "android.widget.Button",
+    "bounds": "0,2240,1080,2247",
+    "children": []
+  }
+]

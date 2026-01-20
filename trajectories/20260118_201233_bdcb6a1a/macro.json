@@ -1,0 +1,108 @@
+{
+  "version": "1.0",
+  "description": "Open the Google Calendar app and schedule the following event:\n\nEvent Details:\n- Title: Design Sprint\n- Date & Time: 2026-01-30 at 3:00 PM\n- Description: Meeting with Emily Chen at Creative Lab. Purpose: Mockup finalization\n\nExecution Steps:\n1. Launch the 'Google Calendar' app\n2. Tap the '+' (Create/Add) button at the bottom right\n3. Select 'Event' from the options\n4. In the 'Add title' field, type: \"Design Sprint\"\n5. Set the date to \"2026-01-30\"\n6. Set the time to \"3:00 PM\"\n7. Scroll down if needed to find the description field\n8. Tap 'Add description' and type: \"Meeting with Emily Chen at Creative Lab. Purpose: Mockup finalization\"\n9. Verify all details are correct\n10. Tap the 'Save' button\n11. Wait for confirmation and return to the main calendar view\n\nImportant Notes:\n- Do NOT add any guests to this event\n- Do NOT add a location - the venue is included in the description\n- Ensure all fields are filled accurately\n- Wait for UI to stabilize between actions",
+  "timestamp": "20260118_201404",
+  "total_actions": 10,
+  "actions": [
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 21: 'Thursday, 29 Jan  \u2022  11:30 am \u2013 12:30 pm' (TextView) at coordinates (595, 2039)",
+      "x": 595,
+      "y": 2039,
+      "element_index": 21,
+      "element_text": "Thursday, 29 Jan  \u2022  11:30 am \u2013 12:30 pm",
+      "element_bounds": "176,2006,1014,2072"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 28: 'Thu, 29 Jan, 2026' (TextView) at coordinates (522, 1147)",
+      "x": 522,
+      "y": 1147,
+      "element_index": 28,
+      "element_text": "Thu, 29 Jan, 2026",
+      "element_bounds": "176,1081,868,1213"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 9: 'Change to next month' (Button) at coordinates (892, 879)",
+      "x": 892,
+      "y": 879,
+      "element_index": 9,
+      "element_text": "Change to next month",
+      "element_bounds": "826,813,958,945"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 9: 'Change to next month' (Button) at coordinates (892, 879)",
+      "x": 892,
+      "y": 879,
+      "element_index": 9,
+      "element_text": "Change to next month",
+      "element_bounds": "826,813,958,945"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 8: 'Change to previous month' (Button) at coordinates (760, 879)",
+      "x": 760,
+      "y": 879,
+      "element_index": 8,
+      "element_text": "Change to previous month",
+      "element_bounds": "694,813,826,945"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 8: 'Change to previous month' (Button) at coordinates (760, 879)",
+      "x": 760,
+      "y": 879,
+      "element_index": 8,
+      "element_text": "Change to previous month",
+      "element_bounds": "694,813,826,945"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 8: 'Change to previous month' (Button) at coordinates (760, 879)",
+      "x": 760,
+      "y": 879,
+      "element_index": 8,
+      "element_text": "Change to previous month",
+      "element_bounds": "694,813,826,945"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 8: 'Change to previous month' (Button) at coordinates (760, 879)",
+      "x": 760,
+      "y": 879,
+      "element_index": 8,
+      "element_text": "Change to previous month",
+      "element_bounds": "694,813,826,945"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 8: 'Change to previous month' (Button) at coordinates (760, 879)",
+      "x": 760,
+      "y": 879,
+      "element_index": 8,
+      "element_text": "Change to previous month",
+      "element_bounds": "694,813,826,945"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 8: 'Change to previous month' (Button) at coordinates (760, 879)",
+      "x": 760,
+      "y": 879,
+      "element_index": 8,
+      "element_text": "Change to previous month",
+      "element_bounds": "694,813,826,945"
+    }
+  ]
+}

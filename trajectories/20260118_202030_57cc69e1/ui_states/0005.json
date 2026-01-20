@@ -1,0 +1,66 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "45,701,1035,1521",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "com.google.android.calendar:id/mtrl_picker_header_title_and_selection",
+    "className": "FrameLayout",
+    "text": "com.google.android.calendar:id/mtrl_picker_header_title_and_selection",
+    "bounds": "122,745,826,1075",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.google.android.calendar:id/mtrl_picker_header_selection_text",
+    "className": "TextView",
+    "text": "18 Jan 2026",
+    "bounds": "155,745,826,1054",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "com.google.android.calendar:id/mtrl_picker_title_text",
+    "className": "TextView",
+    "text": "Select date",
+    "bounds": "155,745,826,839",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "com.google.android.calendar:id/mtrl_picker_header_toggle",
+    "className": "ImageButton",
+    "text": "Switch to calendar input mode",
+    "bounds": "826,921,958,1053",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "com.google.android.calendar:id/mtrl_picker_edit_text_date",
+    "className": "EditText",
+    "text": "18/01/2026",
+    "bounds": "155,1149,925,1279",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.google.android.calendar:id/cancel_button",
+    "className": "Button",
+    "text": "Cancel",
+    "bounds": "578,1339,771,1471",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "com.google.android.calendar:id/confirm_button",
+    "className": "Button",
+    "text": "OK",
+    "bounds": "793,1339,969,1471",
+    "children": []
+  }
+]

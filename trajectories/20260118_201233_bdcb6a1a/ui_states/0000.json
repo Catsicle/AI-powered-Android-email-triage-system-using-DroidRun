@@ -1,0 +1,202 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "com.google.android.calendar:id/drawer_layout",
+    "className": "DrawerLayout",
+    "text": "com.google.android.calendar:id/drawer_layout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.google.android.calendar:id/main_content_view",
+    "className": "FrameLayout",
+    "text": "com.google.android.calendar:id/main_content_view",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "",
+    "className": "ImageButton",
+    "text": "Back",
+    "bounds": "11,104,165,258",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "com.google.android.calendar:id/date_picker_button",
+    "className": "LinearLayout",
+    "text": "January",
+    "bounds": "166,104,529,258",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "com.google.android.calendar:id/date_picker_text_view",
+    "className": "TextView",
+    "text": "January",
+    "bounds": "177,104,406,258",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.google.android.calendar:id/action_search",
+    "className": "Button",
+    "text": "Search",
+    "bounds": "529,115,661,247",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "com.google.android.calendar:id/action_today",
+    "className": "Button",
+    "text": "Jump to Today",
+    "bounds": "661,115,793,247",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "com.google.android.calendar:id/action_tasks",
+    "className": "Button",
+    "text": "Open Tasks",
+    "bounds": "793,115,925,247",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "com.google.android.calendar:id/selected_account_disc",
+    "className": "FrameLayout",
+    "text": "Signed in as Adarsh Das adarshdas.bgkv@gmail.com\nGoogle One account.\nAccount and settings.",
+    "bounds": "925,114,1080,247",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "",
+    "className": "RecyclerView",
+    "text": "android.support.v7.widget.RecyclerView",
+    "bounds": "0,269,1080,2400",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "",
+    "className": "View",
+    "text": "Thursday 29 January 2026",
+    "bounds": "0,269,176,418",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "",
+    "className": "View",
+    "text": "New event: Budget Review, Thursday, 29 January, 11:30 am – 12:30 pm",
+    "bounds": "143,505,1069,679",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,435,1080,2400",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "com.google.android.calendar:id/coordinator_layout",
+    "className": "ViewGroup",
+    "text": "com.google.android.calendar:id/coordinator_layout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 16,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,1657,1080,2400",
+    "children": []
+  },
+  {
+    "index": 17,
+    "resourceId": "com.google.android.calendar:id/close",
+    "className": "ImageButton",
+    "text": "Cancel",
+    "bounds": "11,1668,165,1822",
+    "children": []
+  },
+  {
+    "index": 18,
+    "resourceId": "com.google.android.calendar:id/drag_handle",
+    "className": "ImageButton",
+    "text": "Expand event sheet",
+    "bounds": "457,1657,622,1789",
+    "children": []
+  },
+  {
+    "index": 19,
+    "resourceId": "com.google.android.calendar:id/save",
+    "className": "Button",
+    "text": "Save",
+    "bounds": "794,1679,1036,1811",
+    "children": []
+  },
+  {
+    "index": 20,
+    "resourceId": "com.google.android.calendar:id/title",
+    "className": "EditText",
+    "text": "Budget Review",
+    "bounds": "176,1833,1014,1989",
+    "children": []
+  },
+  {
+    "index": 21,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Thursday, 29 Jan  •  11:30 am – 12:30 pm",
+    "bounds": "176,2006,1014,2072",
+    "children": []
+  },
+  {
+    "index": 22,
+    "resourceId": "com.google.android.calendar:id/tab_carousel",
+    "className": "RecyclerView",
+    "text": "com.google.android.calendar:id/tab_carousel",
+    "bounds": "0,2094,1080,2226",
+    "children": []
+  },
+  {
+    "index": 23,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Event",
+    "bounds": "176,2094,343,2226",
+    "children": []
+  },
+  {
+    "index": 24,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Task",
+    "bounds": "365,2094,512,2226",
+    "children": []
+  },
+  {
+    "index": 25,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Birthday",
+    "bounds": "534,2094,754,2226",
+    "children": []
+  }
+]

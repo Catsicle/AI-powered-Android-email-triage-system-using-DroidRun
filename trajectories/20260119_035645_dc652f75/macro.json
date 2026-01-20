@@ -1,0 +1,65 @@
+{
+  "version": "1.0",
+  "description": "\n    1. Tap the search bar and type \"is:unread\" and hit search/enter.\n    2. Tap the first/top email to open it.\n       - IF the list is empty, return an EMPTY 'EmailList' and STOP.\n    \n    3. CHECK if this is a thread (multiple emails in one conversation):\n       - Look for text like \"(2)\", \"(3)\", etc. next to the sender name\n       - Look for \"Show message history\" or multiple message blocks\n       - If it's a thread, focus on the LATEST/MOST RECENT message in the thread\n    \n    4. EXTRACT the following data from the LATEST message only. If missing, use \"Unknown\":\n       - Name: Sender display name (from the most recent message)\n       - Email: Sender email address (in < > brackets)\n       - Subject: Email subject line (from the thread)\n       - Time: Timestamp of the most recent message (usually top right)\n       - Text: Main email body content of the LATEST message only (not the entire thread history)\n    \n    5. MARK AS READ to prevent re-processing:\n       - Tap the menu icon (3 vertical dots) at the top right\n       - Select \"Mark as read\" from the menu\n       - Wait for confirmation\n    \n    6. IMPORTANT: \n       - For threads, only extract the newest unread message, not old messages\n       - Look for the message that is currently unread/bold\n       - Ignore quoted text or previous messages in the thread\n       - Always mark as read before going back\n    \n    7. Access specific UI elements by ID or text content.\n    8. Tap 'Back' to return to email list.\n    9. Return extracted data.\n    ",
+  "timestamp": "20260119_035750",
+  "total_actions": 6,
+  "actions": [
+    {
+      "type": "KeyPressActionEvent",
+      "action_type": "key_press",
+      "description": "Pressed key ENTER",
+      "keycode": 66,
+      "key_name": "ENTER"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 18: 'is:unread' (TextView) at coordinates (624, 568)",
+      "x": 624,
+      "y": 568,
+      "element_index": 18,
+      "element_text": "is:unread",
+      "element_bounds": "192,532,1056,605"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 17: 'Unread, , , droidrunclient, , Critical: Database leak Attempt, , Team, We are seeing critical failures in the this.py. Error logs attached. \nWho is on call? We need a fix ASAP. Severity: Level 1 -- Annette Coleman \nGeoscientist, , ,  on 18 Jan, labels: Inbox, ' (FrameLayout) at coordinates (540, 754)",
+      "x": 540,
+      "y": 754,
+      "element_index": 17,
+      "element_text": "Unread, , , droidrunclient, , Critical: Database leak Attempt, , Team, We are seeing critical failures in the this.py. Error logs attached. \nWho is on call? We need a fix ASAP. Severity: Level 1 -- Annette Coleman \nGeoscientist, , ,  on 18 Jan, labels: Inbox, ",
+      "element_bounds": "24,614,1056,894"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 30: 'More options' (ImageView) at coordinates (1020, 203)",
+      "x": 1020,
+      "y": 203,
+      "element_index": 30,
+      "element_text": "More options",
+      "element_bounds": "960,131,1080,275"
+    },
+    {
+      "type": "SwipeActionEvent",
+      "action_type": "swipe",
+      "description": "Swipe from (540, 1000) to (540, 500) in 1000 milliseconds",
+      "start_x": 540,
+      "start_y": 1000,
+      "end_x": 540,
+      "end_y": 500,
+      "duration_ms": 1000
+    },
+    {
+      "type": "SwipeActionEvent",
+      "action_type": "swipe",
+      "description": "Swipe from (540, 1000) to (540, 500) in 1000 milliseconds",
+      "start_x": 540,
+      "start_y": 1000,
+      "end_x": 540,
+      "end_y": 500,
+      "duration_ms": 1000
+    }
+  ]
+}

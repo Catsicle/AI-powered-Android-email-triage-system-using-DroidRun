@@ -1,0 +1,24 @@
+[
+  {
+    "type": "CodeActInputEvent"
+  },
+  {
+    "type": "CodeActResponseEvent",
+    "thought": "The precondition is met as the current app is Gmail and the main inbox screen is visible. The next step is to tap the search bar and type \"is:unread\" to filter for unread emails.",
+    "code": "# Step 1: Tap the search bar and type \"is:unread\"\ntype(text=\"is:unread\", index=6, clear=True)\nsystem_button(\"enter\")",
+    "usage": {
+      "request_tokens": 3475,
+      "response_tokens": 87,
+      "total_tokens": 3963,
+      "requests": 1
+    }
+  },
+  {
+    "type": "CodeActCodeEvent",
+    "code": "# Step 1: Tap the search bar and type \"is:unread\"\ntype(text=\"is:unread\", index=6, clear=True)\nsystem_button(\"enter\")"
+  },
+  {
+    "type": "CodeActOutputEvent",
+    "output": "Tapped element with index 6 at coordinates (535, 203)\nText input completed (clear=True): is:unread\nPressed key ENTER\n"
+  }
+]

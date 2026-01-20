@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "description": "Open the Google Calendar app and schedule the following event:\n\nEvent Details:\n- Title: Tea chat\n- Date & Time: TBD at Tuesday between 2 PM and 4 PM\n- Description: Schedule a meeting to discuss disintermediate magnetic web services with Wesley Crawford. Venue: TBD.\n\nExecution Steps:\n1. Launch the 'Google Calendar' app\n2. Tap the '+' (Create/Add) button at the bottom right\n3. Select 'Event' from the options\n4. In the 'Add title' field, type: \"Tea chat\"\n5. Set the date to \"TBD\"\n6. Set the time to \"Tuesday between 2 PM and 4 PM\"\n7. SCROLL DOWN to find the description field - swipe from bottom to top (e.g., from y=2000 to y=500)\n8. Tap 'Add description' and type: \"Schedule a meeting to discuss disintermediate magnetic web services with Wesley Crawford. Venue: TBD.\"\n9. Tap the 'Save' button\n10. Return to the main calendar view\n\nIMPORTANT: To scroll DOWN (see more fields below), swipe UP on screen: from higher y-coordinate to lower y-coordinate (e.g., 550,2000 -> 550,500).\n\nImportant Notes:\n- Do NOT add any guests to this event\n- Do NOT add a location - the venue is included in the description\n- Ensure all fields are filled accurately\n- Wait for UI to stabilize between actions",
+  "timestamp": "20260119_231908",
+  "total_actions": 3,
+  "actions": [
+    {
+      "type": "StartAppEvent",
+      "action_type": "start_app",
+      "description": "Start app com.google.android.calendar",
+      "package": "com.google.android.calendar",
+      "activity": "com.android.calendar.AllInOneActivity"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 10: 'android.widget.Button' (Button) at coordinates (540, 297)",
+      "x": 540,
+      "y": 297,
+      "element_index": 10,
+      "element_text": "android.widget.Button",
+      "element_bounds": "0,269,1080,326"
+    },
+    {
+      "type": "InputTextActionEvent",
+      "action_type": "input_text",
+      "description": "Input text: 'Tea chat' (clear=True)",
+      "text": "Tea chat"
+    }
+  ]
+}

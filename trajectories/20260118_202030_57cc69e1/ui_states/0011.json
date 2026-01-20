@@ -1,0 +1,90 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "89,802,991,1419",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "",
+    "className": "ViewGroup",
+    "text": "android.view.ViewGroup",
+    "bounds": "89,802,991,1419",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.google.android.calendar:id/header_title",
+    "className": "TextView",
+    "text": "Select time",
+    "bounds": "155,846,334,898",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "",
+    "className": "View",
+    "text": "02",
+    "bounds": "155,945,419,1165",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "",
+    "className": "EditText",
+    "text": "00",
+    "bounds": "485,945,749,1165",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "com.google.android.calendar:id/material_clock_period_toggle",
+    "className": "LinearLayout",
+    "text": "Select a.m. or p.m.",
+    "bounds": "782,923,925,1187",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.google.android.calendar:id/material_clock_period_am_button",
+    "className": "RadioButton",
+    "text": "a.m.",
+    "bounds": "782,923,925,1055",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "com.google.android.calendar:id/material_clock_period_pm_button",
+    "className": "RadioButton",
+    "text": "p.m.",
+    "bounds": "782,1061,925,1187",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "com.google.android.calendar:id/material_timepicker_mode_button",
+    "className": "Button",
+    "text": "Switch to clock mode for the time input.",
+    "bounds": "122,1281,254,1413",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "com.google.android.calendar:id/material_timepicker_cancel_button",
+    "className": "Button",
+    "text": "Cancel",
+    "bounds": "556,1287,771,1419",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "com.google.android.calendar:id/material_timepicker_ok_button",
+    "className": "Button",
+    "text": "OK",
+    "bounds": "793,1287,969,1419",
+    "children": []
+  }
+]

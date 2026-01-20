@@ -1,0 +1,130 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,1217,1080,2268",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "com.oplus.screenrecorder:id/topPanel",
+    "className": "LinearLayout",
+    "text": "com.oplus.screenrecorder:id/topPanel",
+    "bounds": "48,1217,1032,1398",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.oplus.screenrecorder:id/alert_title_scroll_view",
+    "className": "ScrollView",
+    "text": "com.oplus.screenrecorder:id/alert_title_scroll_view",
+    "bounds": "120,1289,960,1362",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "com.oplus.screenrecorder:id/alertTitle",
+    "className": "TextView",
+    "text": "Start recording?",
+    "bounds": "120,1289,960,1362",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "com.oplus.screenrecorder:id/scroll_content",
+    "className": "ScrollView",
+    "text": "com.oplus.screenrecorder:id/scroll_content",
+    "bounds": "48,1398,1032,1998",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "com.oplus.screenrecorder:id/tv_warning_dialog",
+    "className": "TextView",
+    "text": "While recording app pages, \"Screen recording\" will access app content. Please protect your privacy.",
+    "bounds": "48,1398,1032,1576",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.oplus.screenrecorder:id/tv_warning_hint",
+    "className": "TextView",
+    "text": "Record sounds",
+    "bounds": "96,1624,337,1673",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "com.oplus.screenrecorder:id/ll_warning_sys",
+    "className": "LinearLayout",
+    "text": "com.oplus.screenrecorder:id/ll_warning_sys",
+    "bounds": "48,1697,1032,1847",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Record system sound",
+    "bounds": "96,1739,822,1804",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "com.oplus.screenrecorder:id/sw_warning_sys",
+    "className": "Switch",
+    "text": "On",
+    "bounds": "870,1736,984,1808",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "com.oplus.screenrecorder:id/ll_warning_mic",
+    "className": "LinearLayout",
+    "text": "com.oplus.screenrecorder:id/ll_warning_mic",
+    "bounds": "48,1848,1032,1998",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Record microphone sound",
+    "bounds": "96,1890,822,1955",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "com.oplus.screenrecorder:id/sw_warning_mic",
+    "className": "Switch",
+    "text": "Off",
+    "bounds": "870,1887,984,1959",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "",
+    "className": "ScrollView",
+    "text": "android.widget.ScrollView",
+    "bounds": "48,2022,1032,2196",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "android:id/button3",
+    "className": "Button",
+    "text": "Cancel",
+    "bounds": "48,2022,538,2196",
+    "children": []
+  },
+  {
+    "index": 16,
+    "resourceId": "android:id/button1",
+    "className": "Button",
+    "text": "Start recording",
+    "bounds": "541,2022,1032,2196",
+    "children": []
+  }
+]

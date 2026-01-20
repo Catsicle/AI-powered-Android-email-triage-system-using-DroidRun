@@ -1,0 +1,110 @@
+{
+  "version": "1.0",
+  "description": "Open the Google Calendar app and schedule the following event:\n\nEvent Details:\n- Title: Coffee chat\n- Date & Time: TBD at 2 PM - 4 PM\n- Description: Schedule a meeting to discuss leverage vertical applications. Venue and attendee information are not specified in the email.\n\nExecution Steps:\n1. Launch the 'Google Calendar' app\n2. Tap the '+' (Create/Add) button at the bottom right\n3. Select 'Event' from the options\n4. In the 'Add title' field, type: \"Coffee chat\"\n5. Set the date to \"TBD\"\n6. Set the time to \"2 PM - 4 PM\"\n7. SCROLL DOWN to find the description field - swipe from bottom to top (e.g., from y=2000 to y=500)\n8. Tap 'Add description' and type: \"Schedule a meeting to discuss leverage vertical applications. Venue and attendee information are not specified in the email.\"\n9. Tap the 'Save' button\n10. Return to the main calendar view\n\nIMPORTANT: To scroll DOWN (see more fields below), swipe UP on screen: from higher y-coordinate to lower y-coordinate (e.g., 550,2000 -> 550,500).\n\nImportant Notes:\n- Do NOT add any guests to this event\n- Do NOT add a location - the venue is included in the description\n- Ensure all fields are filled accurately\n- Wait for UI to stabilize between actions",
+  "timestamp": "20260119_231754",
+  "total_actions": 11,
+  "actions": [
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 5: '30' (View) at coordinates (720, 1051)",
+      "x": 720,
+      "y": 1051,
+      "element_index": 5,
+      "element_text": "30",
+      "element_bounds": "576,931,864,1171"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 5: '30' (EditText) at coordinates (720, 1051)",
+      "x": 720,
+      "y": 1051,
+      "element_index": 5,
+      "element_text": "30",
+      "element_bounds": "576,931,864,1171"
+    },
+    {
+      "type": "InputTextActionEvent",
+      "action_type": "input_text",
+      "description": "Input text: '0' (clear=True)",
+      "text": "0"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 8: 'OK' (Button) at coordinates (816, 1375)",
+      "x": 816,
+      "y": 1375,
+      "element_index": 8,
+      "element_text": "OK",
+      "element_bounds": "720,1303,912,1447"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 31: '15:00' (TextView) at coordinates (960, 1400)",
+      "x": 960,
+      "y": 1400,
+      "element_index": 31,
+      "element_text": "15:00",
+      "element_bounds": "888,1328,1032,1472"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 20: '16' (TextView) at coordinates (712, 1428)",
+      "x": 712,
+      "y": 1428,
+      "element_index": 20,
+      "element_text": "16",
+      "element_bounds": "640,1356,784,1500"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 21: 'OK' (Button) at coordinates (876, 1862)",
+      "x": 876,
+      "y": 1862,
+      "element_index": 21,
+      "element_text": "OK",
+      "element_bounds": "780,1790,972,1934"
+    },
+    {
+      "type": "SwipeActionEvent",
+      "action_type": "swipe",
+      "description": "Swipe from (550, 2000) to (550, 500) in 1000 milliseconds",
+      "start_x": 550,
+      "start_y": 2000,
+      "end_x": 550,
+      "end_y": 500,
+      "duration_ms": 1000
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 41: 'Add description' (EditText) at coordinates (618, 1979)",
+      "x": 618,
+      "y": 1979,
+      "element_index": 41,
+      "element_text": "Add description",
+      "element_bounds": "192,1907,1044,2052"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 41: 'Add description' (EditText) at coordinates (618, 1979)",
+      "x": 618,
+      "y": 1979,
+      "element_index": 41,
+      "element_text": "Add description",
+      "element_bounds": "192,1907,1044,2052"
+    },
+    {
+      "type": "InputTextActionEvent",
+      "action_type": "input_text",
+      "description": "Input text: 'Schedule a meeting to discuss leverage vertical ap...' (clear=False)",
+      "text": "Schedule a meeting to discuss leverage vertical applications. Venue and attendee information are not specified in the email."
+    }
+  ]
+}

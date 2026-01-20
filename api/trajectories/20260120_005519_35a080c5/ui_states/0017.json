@@ -1,0 +1,194 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "com.google.android.gm:id/drawer_container",
+    "className": "DrawerLayout",
+    "text": "com.google.android.gm:id/drawer_container",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.google.android.gm:id/content_pane",
+    "className": "ViewGroup",
+    "text": "com.google.android.gm:id/content_pane",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "",
+    "className": "ScrollView",
+    "text": "android.widget.ScrollView",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "",
+    "className": "ImageButton",
+    "text": "Navigate up",
+    "bounds": "12,119,156,287",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "com.google.android.gm:id/open_search",
+    "className": "EditText",
+    "text": "is:unread",
+    "bounds": "180,119,1044,287",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.google.android.gm:id/open_search_bar_clear_button",
+    "className": "Button",
+    "text": "Clear search text",
+    "bounds": "888,131,1032,275",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "com.google.android.gm:id/filtering_chip_group_container",
+    "className": "HorizontalScrollView",
+    "text": "com.google.android.gm:id/filtering_chip_group_container",
+    "bounds": "0,299,1080,467",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "com.google.android.gm:id/filtering_chip_group",
+    "className": "ViewGroup",
+    "text": "com.google.android.gm:id/filtering_chip_group",
+    "bounds": "0,299,1080,467",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Labels",
+    "bounds": "48,299,318,443",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "",
+    "className": "Button",
+    "text": "From",
+    "bounds": "342,299,586,443",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "",
+    "className": "Button",
+    "text": "To",
+    "bounds": "610,299,800,443",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Attachment",
+    "bounds": "824,299,1080,443",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "com.google.android.gm:id/thread_list_view",
+    "className": "RecyclerView",
+    "text": "com.google.android.gm:id/thread_list_view",
+    "bounds": "0,360,1080,2400",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "android.widget.LinearLayout",
+    "bounds": "0,467,1080,611",
+    "children": []
+  },
+  {
+    "index": 16,
+    "resourceId": "com.google.android.gm:id/sort_dropdown",
+    "className": "Button",
+    "text": "Most relevant",
+    "bounds": "0,467,416,611",
+    "children": []
+  },
+  {
+    "index": 17,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": ", , , devesh yadav, , Subject : 50% Off Software, , Hello, Get 50% off our premium software if you buy today. Click the link \nbelow to verify the offer. Don't miss out! Best, Sales Rep, , ,  on 19 Jan, labels: Inbox, ",
+    "bounds": "24,614,1056,894",
+    "children": []
+  },
+  {
+    "index": 18,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "Unread, , , Aadarsh, , Venue Confirmed: Q1 Project Review, , Hi, This is a reminder that the Q1 Project Review will take place tomorrow \nat 10:00 AM. Venue: The Grand Hall, 3rd Floor. Please bring your laptops. \nRegards, Manager, , ,  on 19 Jan, labels: Inbox, ",
+    "bounds": "24,900,1056,1180",
+    "children": []
+  },
+  {
+    "index": 19,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "Unread, , , rishi yadav, , Approval: New Laptop, , Hi, My laptop is broken. Can I buy a new one for $800? Please reply Yes or \nNo so I can order it. Best, John, , ,  on 19 Jan, labels: Inbox, ",
+    "bounds": "24,1186,1056,1466",
+    "children": []
+  },
+  {
+    "index": 20,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "Unread, , , Sambhav Gujral, , URGENT : Server down, , Hi, The main server is down. Customers cannot log in. Please fix this \nimmediately. Thanks, Admin, , ,  on 19 Jan, labels: Inbox, ",
+    "bounds": "24,1472,1056,1752",
+    "children": []
+  },
+  {
+    "index": 21,
+    "resourceId": "com.google.android.gm:id/hub_tabs_nav",
+    "className": "FrameLayout",
+    "text": "com.google.android.gm:id/hub_tabs_nav",
+    "bounds": "0,2124,1080,2400",
+    "children": []
+  },
+  {
+    "index": 22,
+    "resourceId": "",
+    "className": "ViewGroup",
+    "text": "android.view.ViewGroup",
+    "bounds": "35,2124,1045,2268",
+    "children": []
+  },
+  {
+    "index": 23,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "Mail, 3 new notifications",
+    "bounds": "35,2124,540,2268",
+    "children": []
+  },
+  {
+    "index": 24,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "Meet",
+    "bounds": "540,2124,1045,2268",
+    "children": []
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "com.google.android.calendar:id/drawer_layout",
+    "className": "DrawerLayout",
+    "text": "com.google.android.calendar:id/drawer_layout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.google.android.calendar:id/main_content_view",
+    "className": "FrameLayout",
+    "text": "com.google.android.calendar:id/main_content_view",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "",
+    "className": "ImageButton",
+    "text": "Back",
+    "bounds": "12,119,180,287",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "com.google.android.calendar:id/date_picker_button",
+    "className": "LinearLayout",
+    "text": "January",
+    "bounds": "181,119,480,287",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "com.google.android.calendar:id/date_picker_text_view",
+    "className": "TextView",
+    "text": "January",
+    "bounds": "193,119,408,287",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.google.android.calendar:id/action_search",
+    "className": "Button",
+    "text": "Search",
+    "bounds": "480,131,624,275",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "com.google.android.calendar:id/action_today",
+    "className": "Button",
+    "text": "Jump to Today",
+    "bounds": "624,131,768,275",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "com.google.android.calendar:id/action_tasks",
+    "className": "Button",
+    "text": "Open Tasks",
+    "bounds": "768,131,912,275",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "com.google.android.calendar:id/selected_account_disc",
+    "className": "FrameLayout",
+    "text": "Signed in as Aadarsh adarshscandium@gmail.com\nGoogle One account.\nAccount and settings.",
+    "bounds": "912,131,1080,275",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "",
+    "className": "RecyclerView",
+    "text": "android.support.v7.widget.RecyclerView",
+    "bounds": "0,299,1080,2400",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "",
+    "className": "View",
+    "text": "Thursday 15 January 2026",
+    "bounds": "0,299,192,461",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "",
+    "className": "View",
+    "text": "New event: Tea chat, 15 January",
+    "bounds": "156,299,1068,440",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,479,1080,2400",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "com.google.android.calendar:id/coordinator_layout",
+    "className": "ViewGroup",
+    "text": "com.google.android.calendar:id/coordinator_layout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 16,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,1445,1080,2400",
+    "children": []
+  },
+  {
+    "index": 17,
+    "resourceId": "com.google.android.calendar:id/close",
+    "className": "ImageButton",
+    "text": "Cancel",
+    "bounds": "12,1457,180,1625",
+    "children": []
+  },
+  {
+    "index": 18,
+    "resourceId": "com.google.android.calendar:id/drag_handle",
+    "className": "ImageButton",
+    "text": "Expand event sheet",
+    "bounds": "450,1445,630,1589",
+    "children": []
+  },
+  {
+    "index": 19,
+    "resourceId": "com.google.android.calendar:id/save",
+    "className": "Button",
+    "text": "Save",
+    "bounds": "768,1469,1032,1613",
+    "children": []
+  },
+  {
+    "index": 20,
+    "resourceId": "com.google.android.calendar:id/title",
+    "className": "EditText",
+    "text": "Tea chat",
+    "bounds": "192,1637,1008,1808",
+    "children": []
+  },
+  {
+    "index": 21,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Thursday 15 Jan",
+    "bounds": "192,1826,1008,1899",
+    "children": []
+  },
+  {
+    "index": 22,
+    "resourceId": "com.google.android.calendar:id/tab_carousel",
+    "className": "RecyclerView",
+    "text": "com.google.android.calendar:id/tab_carousel",
+    "bounds": "0,1923,1080,2067",
+    "children": []
+  },
+  {
+    "index": 23,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Event",
+    "bounds": "192,1923,375,2067",
+    "children": []
+  },
+  {
+    "index": 24,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Task",
+    "bounds": "399,1923,560,2067",
+    "children": []
+  },
+  {
+    "index": 25,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Birthday",
+    "bounds": "584,1923,825,2067",
+    "children": []
+  }
+]

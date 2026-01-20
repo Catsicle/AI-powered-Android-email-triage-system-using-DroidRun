@@ -1,0 +1,111 @@
+{
+  "version": "1.0",
+  "description": "Open the Google Calendar app and schedule the following event:\n\nEvent Details:\n- Title: Tea chat\n- Date & Time: TBD at Tuesday between 2 PM and 4 PM\n- Description: Schedule a meeting to discuss disintermediate magnetic web services with Wesley Crawford. Venue: TBD.\n\nExecution Steps:\n1. Launch the 'Google Calendar' app\n2. Tap the '+' (Create/Add) button at the bottom right\n3. Select 'Event' from the options\n4. In the 'Add title' field, type: \"Tea chat\"\n5. Set the date to \"TBD\"\n6. Set the time to \"Tuesday between 2 PM and 4 PM\"\n7. SCROLL DOWN to find the description field - swipe from bottom to top (e.g., from y=2000 to y=500)\n8. Tap 'Add description' and type: \"Schedule a meeting to discuss disintermediate magnetic web services with Wesley Crawford. Venue: TBD.\"\n9. Tap the 'Save' button\n10. Return to the main calendar view\n\nIMPORTANT: To scroll DOWN (see more fields below), swipe UP on screen: from higher y-coordinate to lower y-coordinate (e.g., 550,2000 -> 550,500).\n\nImportant Notes:\n- Do NOT add any guests to this event\n- Do NOT add a location - the venue is included in the description\n- Ensure all fields are filled accurately\n- Wait for UI to stabilize between actions",
+  "timestamp": "20260119_231152",
+  "total_actions": 11,
+  "actions": [
+    {
+      "type": "StartAppEvent",
+      "action_type": "start_app",
+      "description": "Start app com.google.android.calendar",
+      "package": "com.google.android.calendar",
+      "activity": "com.android.calendar.AllInOneActivity"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 57: 'Creation menu' (View) at coordinates (924, 2136)",
+      "x": 924,
+      "y": 2136,
+      "element_index": 57,
+      "element_text": "Creation menu",
+      "element_bounds": "840,2052,1008,2220"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 55: 'com.google.android.calendar:id/fab_container' (ComposeView) at coordinates (540, 1200)",
+      "x": 540,
+      "y": 1200,
+      "element_index": 55,
+      "element_text": "com.google.android.calendar:id/fab_container",
+      "element_bounds": "0,0,1080,2400"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 20: 'Add title' (EditText) at coordinates (600, 1722)",
+      "x": 600,
+      "y": 1722,
+      "element_index": 20,
+      "element_text": "Add title",
+      "element_bounds": "192,1637,1008,1808"
+    },
+    {
+      "type": "InputTextActionEvent",
+      "action_type": "input_text",
+      "description": "Input text: 'Tea chat' (clear=False)",
+      "text": "Tea chat"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 21: 'Thursday 15 Jan' (TextView) at coordinates (600, 1862)",
+      "x": 600,
+      "y": 1862,
+      "element_index": 21,
+      "element_text": "Thursday 15 Jan",
+      "element_bounds": "192,1826,1008,1899"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 28: 'Thu, 15 Jan 2026' (TextView) at coordinates (612, 1256)",
+      "x": 612,
+      "y": 1256,
+      "element_index": 28,
+      "element_text": "Thu, 15 Jan 2026",
+      "element_bounds": "192,1184,1032,1328"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 40: '20' (TextView) at coordinates (276, 1481)",
+      "x": 276,
+      "y": 1481,
+      "element_index": 40,
+      "element_text": "20",
+      "element_bounds": "216,1421,336,1541"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 53: 'OK' (Button) at coordinates (912, 1883)",
+      "x": 912,
+      "y": 1883,
+      "element_index": 53,
+      "element_text": "OK",
+      "element_bounds": "816,1811,1008,1955"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 29: 'Tue, 20 Jan 2026' (TextView) at coordinates (612, 1400)",
+      "x": 612,
+      "y": 1400,
+      "element_index": 29,
+      "element_text": "Tue, 20 Jan 2026",
+      "element_bounds": "192,1328,1032,1472"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 27: '7' (TextView) at coordinates (408, 1241)",
+      "x": 408,
+      "y": 1241,
+      "element_index": 27,
+      "element_text": "7",
+      "element_bounds": "348,1181,468,1301"
+    }
+  ]
+}

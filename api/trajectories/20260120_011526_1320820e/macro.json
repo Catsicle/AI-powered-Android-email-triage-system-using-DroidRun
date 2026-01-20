@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "description": "\nNavigate to Gmail inbox and delete the email with subject: \"50% Off Software\"\n\n1. If you are not in the main Gmail inbox, tap the back arrow until you reach the inbox\n2. Find the email with subject \"50% Off Software\" in the inbox list\n3. Long-press the email to select it\n4. Tap the delete/trash icon in the action bar at the top\n5. Confirm the deletion if prompted\n6. Return to the main inbox view\n",
+  "timestamp": "20260120_011608",
+  "total_actions": 3,
+  "actions": [
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 37: 'Navigate up' (ImageButton) at coordinates (84, 203)",
+      "x": 84,
+      "y": 203,
+      "element_index": 37,
+      "element_text": "Navigate up",
+      "element_bounds": "0,119,168,287"
+    },
+    {
+      "type": "SwipeActionEvent",
+      "action_type": "swipe",
+      "description": "Swipe from (540, 598) to (540, 598) in 1000 milliseconds",
+      "start_x": 540,
+      "start_y": 598,
+      "end_x": 540,
+      "end_y": 598,
+      "duration_ms": 1000
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 21: 'Delete' (Button) at coordinates (744, 203)",
+      "x": 744,
+      "y": 203,
+      "element_index": 21,
+      "element_text": "Delete",
+      "element_bounds": "672,131,816,275"
+    }
+  ]
+}

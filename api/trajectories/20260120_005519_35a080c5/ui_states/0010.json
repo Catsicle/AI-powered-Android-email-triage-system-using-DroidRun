@@ -1,0 +1,266 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "com.android.launcher:id/workspace",
+    "className": "ScrollView",
+    "text": "com.android.launcher:id/workspace",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "",
+    "className": "CustomLauncherAppWidgetHostView",
+    "text": "OnePlus Widget",
+    "bounds": "36,180,792,744",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "net.oneplus.widget:id/day_text",
+    "className": "TextView",
+    "text": "Tuesday",
+    "bounds": "75,219,486,416",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "net.oneplus.widget:id/clock_group",
+    "className": "RelativeLayout",
+    "text": "net.oneplus.widget:id/clock_group",
+    "bounds": "75,416,347,563",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "net.oneplus.widget:id/clock_hour",
+    "className": "TextView",
+    "text": "00",
+    "bounds": "75,416,199,563",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "net.oneplus.widget:id/clock_colon",
+    "className": "TextView",
+    "text": "∶",
+    "bounds": "199,416,223,563",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "net.oneplus.widget:id/clock_minute",
+    "className": "TextView",
+    "text": "58",
+    "bounds": "223,416,347,563",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "net.oneplus.widget:id/date_text",
+    "className": "TextView",
+    "text": "20 January",
+    "bounds": "75,563,273,629",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "My Files",
+    "bounds": "540,744,792,1026",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Notes",
+    "bounds": "792,744,1044,1026",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "",
+    "className": "CustomLauncherAppWidgetHostView",
+    "text": "Google",
+    "bounds": "36,1026,1044,1308",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "com.google.android.googlequicksearchbox:id/googleapp_search_widget_background_light_mode",
+    "className": "ImageView",
+    "text": "Google Search",
+    "bounds": "60,1095,1020,1239",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "com.google.android.googlequicksearchbox:id/googleapp_search_widget_google_logo",
+    "className": "ImageButton",
+    "text": "Google app",
+    "bounds": "60,1095,204,1239",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "com.google.android.googlequicksearchbox:id/googleapp_search_widget_shortcut_btn",
+    "className": "ImageButton",
+    "text": "AI Mode",
+    "bounds": "588,1095,732,1239",
+    "children": []
+  },
+  {
+    "index": 16,
+    "resourceId": "com.google.android.googlequicksearchbox:id/googleapp_search_widget_voice_btn",
+    "className": "ImageButton",
+    "text": "Voice search",
+    "bounds": "732,1095,876,1239",
+    "children": []
+  },
+  {
+    "index": 17,
+    "resourceId": "com.google.android.googlequicksearchbox:id/googleapp_search_widget_lens_btn",
+    "className": "ImageButton",
+    "text": "Camera search",
+    "bounds": "876,1095,1020,1239",
+    "children": []
+  },
+  {
+    "index": 18,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "WhatsApp",
+    "bounds": "36,1308,288,1590",
+    "children": []
+  },
+  {
+    "index": 19,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "MA1201",
+    "bounds": "540,1308,792,1590",
+    "children": []
+  },
+  {
+    "index": 20,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Outlook",
+    "bounds": "792,1308,1044,1590",
+    "children": []
+  },
+  {
+    "index": 21,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "OneIITP",
+    "bounds": "36,1590,288,1872",
+    "children": []
+  },
+  {
+    "index": 22,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Coding C",
+    "bounds": "288,1590,540,1872",
+    "children": []
+  },
+  {
+    "index": 23,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "To Do",
+    "bounds": "540,1590,792,1872",
+    "children": []
+  },
+  {
+    "index": 24,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Photos",
+    "bounds": "792,1590,1044,1872",
+    "children": []
+  },
+  {
+    "index": 25,
+    "resourceId": "com.android.launcher:id/page_indicator",
+    "className": "FrameLayout",
+    "text": "SEARCH",
+    "bounds": "406,1902,674,1986",
+    "children": []
+  },
+  {
+    "index": 26,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Phone",
+    "bounds": "36,2016,288,2268",
+    "children": []
+  },
+  {
+    "index": 27,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Messages has 1 notification",
+    "bounds": "288,2016,540,2268",
+    "children": []
+  },
+  {
+    "index": 28,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Chrome has 1 notification",
+    "bounds": "540,2016,792,2268",
+    "children": []
+  },
+  {
+    "index": 29,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Camera",
+    "bounds": "792,2016,1044,2268",
+    "children": []
+  },
+  {
+    "index": 30,
+    "resourceId": "com.android.launcher:id/dockview_panel",
+    "className": "ScrollView",
+    "text": "com.android.launcher:id/dockview_panel",
+    "bounds": "0,1836,1080,1956",
+    "children": []
+  },
+  {
+    "index": 31,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "480,1836,600,1956",
+    "children": []
+  },
+  {
+    "index": 32,
+    "resourceId": "com.android.launcher:id/clean_storage_button",
+    "className": "Button",
+    "text": "Clean up",
+    "bounds": "72,2040,216,2184",
+    "children": []
+  },
+  {
+    "index": 33,
+    "resourceId": "com.android.launcher:id/btn_clear",
+    "className": "Button",
+    "text": "Close",
+    "bounds": "312,2046,768,2178",
+    "children": []
+  }
+]

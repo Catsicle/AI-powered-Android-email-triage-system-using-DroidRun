@@ -1,0 +1,114 @@
+{
+  "version": "1.0",
+  "description": "Open the Google Calendar app and schedule the following event:\n\nEvent Details:\n- Title: Coffee chat\n- Date & Time: TBD at 2 PM - 4 PM\n- Description: Schedule a meeting to discuss leverage vertical applications. Venue and attendee information are not specified in the email.\n\nExecution Steps:\n1. Launch the 'Google Calendar' app\n2. Tap the '+' (Create/Add) button at the bottom right\n3. Select 'Event' from the options\n4. In the 'Add title' field, type: \"Coffee chat\"\n5. Set the date to \"TBD\"\n6. Set the time to \"2 PM - 4 PM\"\n7. SCROLL DOWN to find the description field - swipe from bottom to top (e.g., from y=2000 to y=500)\n8. Tap 'Add description' and type: \"Schedule a meeting to discuss leverage vertical applications. Venue and attendee information are not specified in the email.\"\n9. Tap the 'Save' button\n10. Return to the main calendar view\n\nIMPORTANT: To scroll DOWN (see more fields below), swipe UP on screen: from higher y-coordinate to lower y-coordinate (e.g., 550,2000 -> 550,500).\n\nImportant Notes:\n- Do NOT add any guests to this event\n- Do NOT add a location - the venue is included in the description\n- Ensure all fields are filled accurately\n- Wait for UI to stabilize between actions",
+  "timestamp": "20260119_231326",
+  "total_actions": 11,
+  "actions": [
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 19: 'android.widget.LinearLayout' (LinearLayout) at coordinates (540, 1421)",
+      "x": 540,
+      "y": 1421,
+      "element_index": 19,
+      "element_text": "android.widget.LinearLayout",
+      "element_bounds": "84,1061,996,1781"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 53: 'OK' (Button) at coordinates (912, 1883)",
+      "x": 912,
+      "y": 1883,
+      "element_index": 53,
+      "element_text": "OK",
+      "element_bounds": "816,1811,1008,1955"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 10: 'Tea chat' (EditText) at coordinates (600, 354)",
+      "x": 600,
+      "y": 354,
+      "element_index": 10,
+      "element_text": "Tea chat",
+      "element_bounds": "192,269,1008,440"
+    },
+    {
+      "type": "InputTextActionEvent",
+      "action_type": "input_text",
+      "description": "Input text: 'Coffee chat' (clear=True)",
+      "text": "Coffee chat"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 28: 'Tue, 20 Jan 2026' (TextView) at coordinates (612, 1256)",
+      "x": 612,
+      "y": 1256,
+      "element_index": 28,
+      "element_text": "Tue, 20 Jan 2026",
+      "element_bounds": "192,1184,1032,1328"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 40: '20' (TextView) at coordinates (276, 1481)",
+      "x": 276,
+      "y": 1481,
+      "element_index": 40,
+      "element_text": "20",
+      "element_bounds": "216,1421,336,1541"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 53: 'OK' (Button) at coordinates (912, 1883)",
+      "x": 912,
+      "y": 1883,
+      "element_index": 53,
+      "element_text": "OK",
+      "element_bounds": "816,1811,1008,1955"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 28: 'Tue, 20 Jan 2026' (TextView) at coordinates (612, 1256)",
+      "x": 612,
+      "y": 1256,
+      "element_index": 28,
+      "element_text": "Tue, 20 Jan 2026",
+      "element_bounds": "192,1184,1032,1328"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 53: 'OK' (Button) at coordinates (912, 1883)",
+      "x": 912,
+      "y": 1883,
+      "element_index": 53,
+      "element_text": "OK",
+      "element_bounds": "816,1811,1008,1955"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 28: 'Tue, 20 Jan 2026' (TextView) at coordinates (612, 1256)",
+      "x": 612,
+      "y": 1256,
+      "element_index": 28,
+      "element_text": "Tue, 20 Jan 2026",
+      "element_bounds": "192,1184,1032,1328"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 53: 'OK' (Button) at coordinates (912, 1883)",
+      "x": 912,
+      "y": 1883,
+      "element_index": 53,
+      "element_text": "OK",
+      "element_bounds": "816,1811,1008,1955"
+    }
+  ]
+}

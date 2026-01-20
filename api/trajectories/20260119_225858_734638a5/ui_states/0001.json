@@ -1,0 +1,586 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "",
+    "className": "ViewGroup",
+    "text": "android.view.ViewGroup",
+    "bounds": "0,0,1080,2268",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.microsoft.office.outlook:id/drawer_layout",
+    "className": "DrawerLayout",
+    "text": "com.microsoft.office.outlook:id/drawer_layout",
+    "bounds": "0,0,1080,2268",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "",
+    "className": "ViewGroup",
+    "text": "android.view.ViewGroup",
+    "bounds": "0,0,1080,2268",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "com.microsoft.office.outlook:id/nav_footer_contribution_container_container",
+    "className": "ViewGroup",
+    "text": "com.microsoft.office.outlook:id/nav_footer_contribution_container_container",
+    "bounds": "0,107,1080,2268",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "com.microsoft.office.outlook:id/central_toolbar",
+    "className": "ViewGroup",
+    "text": "com.microsoft.office.outlook:id/central_toolbar",
+    "bounds": "0,107,1080,275",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.microsoft.office.outlook:id/toolbar",
+    "className": "ViewGroup",
+    "text": "com.microsoft.office.outlook:id/toolbar",
+    "bounds": "0,107,1080,275",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "Inbox",
+    "bounds": "216,150,364,231",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Notification Centre",
+    "bounds": "792,119,936,263",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "",
+    "className": "Button",
+    "text": "Search",
+    "bounds": "936,119,1080,263",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "com.microsoft.office.outlook:id/account_button",
+    "className": "Button",
+    "text": "Open Navigation Drawer",
+    "bounds": "36,131,156,251",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "com.microsoft.office.outlook:id/fragments_holder",
+    "className": "FrameLayout",
+    "text": "com.microsoft.office.outlook:id/fragments_holder",
+    "bounds": "0,275,1080,2268",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "",
+    "className": "ComposeView",
+    "text": "androidx.compose.ui.platform.ComposeView",
+    "bounds": "0,275,1080,2092",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,275,1080,2092",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,275,1080,2092",
+    "children": []
+  },
+  {
+    "index": 16,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "48,275,505,419",
+    "children": []
+  },
+  {
+    "index": 17,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "96,323,257,372",
+    "children": []
+  },
+  {
+    "index": 18,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "353,323,457,372",
+    "children": []
+  },
+  {
+    "index": 19,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "96,323,257,372",
+    "children": []
+  },
+  {
+    "index": 20,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "48,299,505,395",
+    "children": []
+  },
+  {
+    "index": 21,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "839,275,1032,419",
+    "children": []
+  },
+  {
+    "index": 22,
+    "resourceId": "",
+    "className": "View",
+    "text": "Filter",
+    "bounds": "839,299,1032,395",
+    "children": []
+  },
+  {
+    "index": 23,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "887,323,984,372",
+    "children": []
+  },
+  {
+    "index": 24,
+    "resourceId": "",
+    "className": "Button",
+    "text": "android.widget.Button",
+    "bounds": "839,299,1032,395",
+    "children": []
+  },
+  {
+    "index": 25,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,419,1080,2092",
+    "children": []
+  },
+  {
+    "index": 26,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,419,1080,2092",
+    "children": []
+  },
+  {
+    "index": 27,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,422,1080,665",
+    "children": []
+  },
+  {
+    "index": 28,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "48,470,168,590",
+    "children": []
+  },
+  {
+    "index": 29,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,458,1032,515",
+    "children": []
+  },
+  {
+    "index": 30,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,515,1032,575",
+    "children": []
+  },
+  {
+    "index": 31,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,575,1032,629",
+    "children": []
+  },
+  {
+    "index": 32,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,665,1080,908",
+    "children": []
+  },
+  {
+    "index": 33,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "48,713,168,833",
+    "children": []
+  },
+  {
+    "index": 34,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,701,1032,758",
+    "children": []
+  },
+  {
+    "index": 35,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,758,1032,818",
+    "children": []
+  },
+  {
+    "index": 36,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,818,1032,872",
+    "children": []
+  },
+  {
+    "index": 37,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,908,1080,1151",
+    "children": []
+  },
+  {
+    "index": 38,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "48,956,168,1076",
+    "children": []
+  },
+  {
+    "index": 39,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,944,1032,1001",
+    "children": []
+  },
+  {
+    "index": 40,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,1001,1032,1061",
+    "children": []
+  },
+  {
+    "index": 41,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,1061,1032,1115",
+    "children": []
+  },
+  {
+    "index": 42,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,1151,1080,1394",
+    "children": []
+  },
+  {
+    "index": 43,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "48,1199,168,1319",
+    "children": []
+  },
+  {
+    "index": 44,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,1187,1032,1244",
+    "children": []
+  },
+  {
+    "index": 45,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,1244,1032,1304",
+    "children": []
+  },
+  {
+    "index": 46,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,1304,1032,1358",
+    "children": []
+  },
+  {
+    "index": 47,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,1394,1080,1637",
+    "children": []
+  },
+  {
+    "index": 48,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "48,1442,168,1562",
+    "children": []
+  },
+  {
+    "index": 49,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,1430,1032,1487",
+    "children": []
+  },
+  {
+    "index": 50,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,1487,1032,1547",
+    "children": []
+  },
+  {
+    "index": 51,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,1547,1032,1601",
+    "children": []
+  },
+  {
+    "index": 52,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,1637,1080,1880",
+    "children": []
+  },
+  {
+    "index": 53,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "48,1685,168,1805",
+    "children": []
+  },
+  {
+    "index": 54,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,1673,1032,1730",
+    "children": []
+  },
+  {
+    "index": 55,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,1730,1032,1790",
+    "children": []
+  },
+  {
+    "index": 56,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,1790,1032,1844",
+    "children": []
+  },
+  {
+    "index": 57,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "0,1880,1080,2092",
+    "children": []
+  },
+  {
+    "index": 58,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "48,1928,168,2048",
+    "children": []
+  },
+  {
+    "index": 59,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,1916,1032,1973",
+    "children": []
+  },
+  {
+    "index": 60,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,1973,1032,2033",
+    "children": []
+  },
+  {
+    "index": 61,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "216,2033,1032,2087",
+    "children": []
+  },
+  {
+    "index": 62,
+    "resourceId": "com.microsoft.office.outlook:id/fab_menu_view",
+    "className": "ViewGroup",
+    "text": "com.microsoft.office.outlook:id/fab_menu_view",
+    "bounds": "0,1876,1080,2092",
+    "children": []
+  },
+  {
+    "index": 63,
+    "resourceId": "",
+    "className": "A11yFocusFixedComposeView",
+    "text": "com.microsoft.office.outlook.uicomposekit.ui.A11yFocusFixedComposeView",
+    "bounds": "564,1900,744,2044",
+    "children": []
+  },
+  {
+    "index": 64,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "564,1900,744,2044",
+    "children": []
+  },
+  {
+    "index": 65,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "564,1900,708,2044",
+    "children": []
+  },
+  {
+    "index": 66,
+    "resourceId": "",
+    "className": "View",
+    "text": "android.view.View",
+    "bounds": "564,1900,708,2044",
+    "children": []
+  },
+  {
+    "index": 67,
+    "resourceId": "",
+    "className": "View",
+    "text": "Open dock list",
+    "bounds": "600,1936,672,2008",
+    "children": []
+  },
+  {
+    "index": 68,
+    "resourceId": "",
+    "className": "Button",
+    "text": "android.widget.Button",
+    "bounds": "564,1900,708,2044",
+    "children": []
+  },
+  {
+    "index": 69,
+    "resourceId": "com.microsoft.office.outlook:id/fabmenuview_primary_button",
+    "className": "Button",
+    "text": "New email",
+    "bounds": "744,1900,888,2044",
+    "children": []
+  },
+  {
+    "index": 70,
+    "resourceId": "com.microsoft.office.outlook:id/secondary_action",
+    "className": "Button",
+    "text": "Copilot Chat",
+    "bounds": "888,1900,1032,2044",
+    "children": []
+  },
+  {
+    "index": 71,
+    "resourceId": "",
+    "className": "ViewGroup",
+    "text": "Email",
+    "bounds": "0,2093,360,2268",
+    "children": []
+  },
+  {
+    "index": 72,
+    "resourceId": "",
+    "className": "ViewGroup",
+    "text": "Calendar",
+    "bounds": "360,2093,720,2268",
+    "children": []
+  },
+  {
+    "index": 73,
+    "resourceId": "com.microsoft.office.outlook:id/menu_more",
+    "className": "ViewGroup",
+    "text": "Apps",
+    "bounds": "720,2093,1080,2268",
+    "children": []
+  }
+]

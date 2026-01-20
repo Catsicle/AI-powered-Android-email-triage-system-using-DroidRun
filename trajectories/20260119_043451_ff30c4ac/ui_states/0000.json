@@ -1,0 +1,314 @@
+[
+  {
+    "index": 1,
+    "resourceId": "com.android.systemui:id/legacy_window_root",
+    "className": "FrameLayout",
+    "text": "com.android.systemui:id/legacy_window_root",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "com.android.systemui:id/notification_panel",
+    "className": "FrameLayout",
+    "text": "com.android.systemui:id/notification_panel",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.android.systemui:id/keyguard_carrier_text",
+    "className": "TextView",
+    "text": "airtel",
+    "bounds": "51,18,174,107",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "com.android.systemui:id/system_icons",
+    "className": "LinearLayout",
+    "text": "com.android.systemui:id/system_icons",
+    "bounds": "636,32,1020,92",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "",
+    "className": "ImageView",
+    "text": "Bluetooth connected.",
+    "bounds": "693,32,747,92",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "",
+    "className": "ImageView",
+    "text": "VoLTE",
+    "bounds": "747,32,801,92",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.android.systemui:id/mobile_combo",
+    "className": "FrameLayout",
+    "text": "Phone signal full.",
+    "bounds": "801,32,882,92",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "com.android.systemui:id/mobile_type",
+    "className": "ImageView",
+    "text": "4G",
+    "bounds": "816,38,882,86",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "com.android.systemui:id/battery",
+    "className": "LinearLayout",
+    "text": "Battery Status Bar Item Remaining Battery 100 Percent",
+    "bounds": "882,32,1020,92",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "com.android.systemui:id/battery_percentage_view",
+    "className": "TextView",
+    "text": "100%",
+    "bounds": "922,32,1020,92",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "com.android.systemui:id/notification_stack_scroller",
+    "className": "ScrollView",
+    "text": "com.android.systemui:id/notification_stack_scroller",
+    "bounds": "48,0,1032,2172",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "com.android.systemui:id/expandableNotificationRow",
+    "className": "FrameLayout",
+    "text": "com.android.systemui:id/expandableNotificationRow",
+    "bounds": "48,795,1032,1018",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "android:id/time",
+    "className": "TextView",
+    "text": "Yesterday",
+    "bounds": "162,852,321,894",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "android:id/title",
+    "className": "TextView",
+    "text": "1 notification",
+    "bounds": "96,921,984,970",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "com.android.systemui:id/expandableNotificationRow",
+    "className": "FrameLayout",
+    "text": "com.android.systemui:id/expandableNotificationRow",
+    "bounds": "48,1042,1032,1265",
+    "children": []
+  },
+  {
+    "index": 16,
+    "resourceId": "android:id/app_name_text",
+    "className": "TextView",
+    "text": "System UI",
+    "bounds": "156,1099,330,1141",
+    "children": []
+  },
+  {
+    "index": 17,
+    "resourceId": "android:id/time_divider",
+    "className": "TextView",
+    "text": "•",
+    "bounds": "342,1099,354,1141",
+    "children": []
+  },
+  {
+    "index": 18,
+    "resourceId": "android:id/time",
+    "className": "TextView",
+    "text": "03:12",
+    "bounds": "366,1099,455,1141",
+    "children": []
+  },
+  {
+    "index": 19,
+    "resourceId": "android:id/title",
+    "className": "TextView",
+    "text": "1 notification",
+    "bounds": "96,1168,984,1217",
+    "children": []
+  },
+  {
+    "index": 20,
+    "resourceId": "com.android.systemui:id/expandableNotificationRow",
+    "className": "FrameLayout",
+    "text": "com.android.systemui:id/expandableNotificationRow",
+    "bounds": "48,1289,1032,1512",
+    "children": []
+  },
+  {
+    "index": 21,
+    "resourceId": "android:id/app_name_text",
+    "className": "TextView",
+    "text": "System UI",
+    "bounds": "156,1346,330,1388",
+    "children": []
+  },
+  {
+    "index": 22,
+    "resourceId": "android:id/time_divider",
+    "className": "TextView",
+    "text": "•",
+    "bounds": "342,1346,354,1388",
+    "children": []
+  },
+  {
+    "index": 23,
+    "resourceId": "android:id/time",
+    "className": "TextView",
+    "text": "03:12",
+    "bounds": "366,1346,455,1388",
+    "children": []
+  },
+  {
+    "index": 24,
+    "resourceId": "android:id/title",
+    "className": "TextView",
+    "text": "1 notification",
+    "bounds": "96,1415,984,1464",
+    "children": []
+  },
+  {
+    "index": 25,
+    "resourceId": "com.oplus.keyguard.clock.base:id/clock_time",
+    "className": "LinearLayout",
+    "text": "04:34",
+    "bounds": "72,336,770,656",
+    "children": []
+  },
+  {
+    "index": 26,
+    "resourceId": "com.oplus.keyguard.clock.base:id/clock_time_hour_first_txt",
+    "className": "TextView",
+    "text": "0",
+    "bounds": "72,336,235,656",
+    "children": []
+  },
+  {
+    "index": 27,
+    "resourceId": "com.oplus.keyguard.clock.base:id/clock_time_hour_second_txt",
+    "className": "TextView",
+    "text": "4",
+    "bounds": "235,336,386,656",
+    "children": []
+  },
+  {
+    "index": 28,
+    "resourceId": "com.oplus.keyguard.clock.base:id/clock_time_symbol_text",
+    "className": "TextView",
+    "text": ":",
+    "bounds": "386,336,466,656",
+    "children": []
+  },
+  {
+    "index": 29,
+    "resourceId": "com.oplus.keyguard.clock.base:id/clock_time_minutes_txt",
+    "className": "TextView",
+    "text": "34",
+    "bounds": "466,336,770,656",
+    "children": []
+  },
+  {
+    "index": 30,
+    "resourceId": "com.oplus.keyguard.clock.base:id/week_text",
+    "className": "TextView",
+    "text": "Monday",
+    "bounds": "78,267,424,396",
+    "children": []
+  },
+  {
+    "index": 31,
+    "resourceId": "com.oplus.keyguard.clock.base:id/tips_text",
+    "className": "TextView",
+    "text": "Fully charged",
+    "bounds": "84,626,440,707",
+    "children": []
+  },
+  {
+    "index": 32,
+    "resourceId": "com.oplus.keyguard.clock.base:id/date_text",
+    "className": "TextView",
+    "text": "19 Jan",
+    "bounds": "84,626,265,707",
+    "children": []
+  },
+  {
+    "index": 33,
+    "resourceId": "com.oplus.keyguard.clock.base:id/extra_message_icon",
+    "className": "ImageView",
+    "text": "Fog",
+    "bounds": "295,626,379,710",
+    "children": []
+  },
+  {
+    "index": 34,
+    "resourceId": "com.oplus.keyguard.clock.base:id/extra_message_content",
+    "className": "TextView",
+    "text": "14°",
+    "bounds": "385,626,476,707",
+    "children": []
+  },
+  {
+    "index": 35,
+    "resourceId": "com.android.systemui:id/keyguard_bottom_area",
+    "className": "FrameLayout",
+    "text": "com.android.systemui:id/keyguard_bottom_area",
+    "bounds": "0,0,1080,2400",
+    "children": []
+  },
+  {
+    "index": 36,
+    "resourceId": "com.android.systemui:id/start_button",
+    "className": "ImageView",
+    "text": "Digital assistant from Google",
+    "bounds": "0,2112,288,2400",
+    "children": []
+  },
+  {
+    "index": 37,
+    "resourceId": "com.android.systemui:id/end_button",
+    "className": "ImageView",
+    "text": "Camera",
+    "bounds": "792,2112,1080,2400",
+    "children": []
+  },
+  {
+    "index": 38,
+    "resourceId": "com.android.systemui:id/lock_icon_view",
+    "className": "FrameLayout",
+    "text": "Device locked",
+    "bounds": "462,107,618,263",
+    "children": []
+  },
+  {
+    "index": 39,
+    "resourceId": "com.android.systemui:id/lock_icon",
+    "className": "ImageView",
+    "text": "Device locked",
+    "bounds": "462,107,618,263",
+    "children": []
+  }
+]

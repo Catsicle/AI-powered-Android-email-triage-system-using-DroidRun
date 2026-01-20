@@ -1,0 +1,426 @@
+[
+  {
+    "index": 1,
+    "resourceId": "",
+    "className": "FrameLayout",
+    "text": "android.widget.FrameLayout",
+    "bounds": "0,365,1080,2009",
+    "children": []
+  },
+  {
+    "index": 2,
+    "resourceId": "com.google.android.calendar:id/mtrl_picker_header_title_and_selection",
+    "className": "FrameLayout",
+    "text": "com.google.android.calendar:id/mtrl_picker_header_title_and_selection",
+    "bounds": "84,413,852,773",
+    "children": []
+  },
+  {
+    "index": 3,
+    "resourceId": "com.google.android.calendar:id/mtrl_picker_header_selection_text",
+    "className": "TextView",
+    "text": "19 Jan 2026",
+    "bounds": "120,413,852,750",
+    "children": []
+  },
+  {
+    "index": 4,
+    "resourceId": "com.google.android.calendar:id/mtrl_picker_title_text",
+    "className": "TextView",
+    "text": "Select date",
+    "bounds": "120,413,852,515",
+    "children": []
+  },
+  {
+    "index": 5,
+    "resourceId": "com.google.android.calendar:id/mtrl_picker_header_toggle",
+    "className": "ImageButton",
+    "text": "Switch to text input mode",
+    "bounds": "852,605,996,749",
+    "children": []
+  },
+  {
+    "index": 6,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "android.widget.LinearLayout",
+    "bounds": "84,773,996,1793",
+    "children": []
+  },
+  {
+    "index": 7,
+    "resourceId": "com.google.android.calendar:id/month_navigation_fragment_toggle",
+    "className": "Button",
+    "text": "January 2026",
+    "bounds": "84,785,511,929",
+    "children": []
+  },
+  {
+    "index": 8,
+    "resourceId": "com.google.android.calendar:id/month_navigation_previous",
+    "className": "Button",
+    "text": "Change to previous month",
+    "bounds": "708,785,852,929",
+    "children": []
+  },
+  {
+    "index": 9,
+    "resourceId": "com.google.android.calendar:id/month_navigation_next",
+    "className": "Button",
+    "text": "Change to next month",
+    "bounds": "852,785,996,929",
+    "children": []
+  },
+  {
+    "index": 10,
+    "resourceId": "com.google.android.calendar:id/mtrl_calendar_days_of_week",
+    "className": "GridView",
+    "text": "com.google.android.calendar:id/mtrl_calendar_days_of_week",
+    "bounds": "84,941,996,1061",
+    "children": []
+  },
+  {
+    "index": 11,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "M",
+    "bounds": "84,941,204,1061",
+    "children": []
+  },
+  {
+    "index": 12,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "T",
+    "bounds": "216,941,336,1061",
+    "children": []
+  },
+  {
+    "index": 13,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "W",
+    "bounds": "348,941,468,1061",
+    "children": []
+  },
+  {
+    "index": 14,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "T",
+    "bounds": "480,941,600,1061",
+    "children": []
+  },
+  {
+    "index": 15,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "F",
+    "bounds": "612,941,732,1061",
+    "children": []
+  },
+  {
+    "index": 16,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "S",
+    "bounds": "744,941,864,1061",
+    "children": []
+  },
+  {
+    "index": 17,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "S",
+    "bounds": "876,941,996,1061",
+    "children": []
+  },
+  {
+    "index": 18,
+    "resourceId": "com.google.android.calendar:id/mtrl_calendar_months",
+    "className": "RecyclerView",
+    "text": "com.google.android.calendar:id/mtrl_calendar_months",
+    "bounds": "84,1061,996,1781",
+    "children": []
+  },
+  {
+    "index": 19,
+    "resourceId": "",
+    "className": "LinearLayout",
+    "text": "android.widget.LinearLayout",
+    "bounds": "84,1061,996,1781",
+    "children": []
+  },
+  {
+    "index": 20,
+    "resourceId": "com.google.android.calendar:id/month_grid",
+    "className": "GridView",
+    "text": "com.google.android.calendar:id/month_grid",
+    "bounds": "84,1061,996,1781",
+    "children": []
+  },
+  {
+    "index": 21,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "1",
+    "bounds": "480,1061,600,1181",
+    "children": []
+  },
+  {
+    "index": 22,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "2",
+    "bounds": "612,1061,732,1181",
+    "children": []
+  },
+  {
+    "index": 23,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "3",
+    "bounds": "744,1061,864,1181",
+    "children": []
+  },
+  {
+    "index": 24,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "4",
+    "bounds": "876,1061,996,1181",
+    "children": []
+  },
+  {
+    "index": 25,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "5",
+    "bounds": "84,1181,204,1301",
+    "children": []
+  },
+  {
+    "index": 26,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "6",
+    "bounds": "216,1181,336,1301",
+    "children": []
+  },
+  {
+    "index": 27,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "7",
+    "bounds": "348,1181,468,1301",
+    "children": []
+  },
+  {
+    "index": 28,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "8",
+    "bounds": "480,1181,600,1301",
+    "children": []
+  },
+  {
+    "index": 29,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "9",
+    "bounds": "612,1181,732,1301",
+    "children": []
+  },
+  {
+    "index": 30,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "10",
+    "bounds": "744,1181,864,1301",
+    "children": []
+  },
+  {
+    "index": 31,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "11",
+    "bounds": "876,1181,996,1301",
+    "children": []
+  },
+  {
+    "index": 32,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "12",
+    "bounds": "84,1301,204,1421",
+    "children": []
+  },
+  {
+    "index": 33,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "13",
+    "bounds": "216,1301,336,1421",
+    "children": []
+  },
+  {
+    "index": 34,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "14",
+    "bounds": "348,1301,468,1421",
+    "children": []
+  },
+  {
+    "index": 35,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "15",
+    "bounds": "480,1301,600,1421",
+    "children": []
+  },
+  {
+    "index": 36,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "16",
+    "bounds": "612,1301,732,1421",
+    "children": []
+  },
+  {
+    "index": 37,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "17",
+    "bounds": "744,1301,864,1421",
+    "children": []
+  },
+  {
+    "index": 38,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "18",
+    "bounds": "876,1301,996,1421",
+    "children": []
+  },
+  {
+    "index": 39,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "19",
+    "bounds": "84,1421,204,1541",
+    "children": []
+  },
+  {
+    "index": 40,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "20",
+    "bounds": "216,1421,336,1541",
+    "children": []
+  },
+  {
+    "index": 41,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "21",
+    "bounds": "348,1421,468,1541",
+    "children": []
+  },
+  {
+    "index": 42,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "22",
+    "bounds": "480,1421,600,1541",
+    "children": []
+  },
+  {
+    "index": 43,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "23",
+    "bounds": "612,1421,732,1541",
+    "children": []
+  },
+  {
+    "index": 44,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "24",
+    "bounds": "744,1421,864,1541",
+    "children": []
+  },
+  {
+    "index": 45,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "25",
+    "bounds": "876,1421,996,1541",
+    "children": []
+  },
+  {
+    "index": 46,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "26",
+    "bounds": "84,1541,204,1661",
+    "children": []
+  },
+  {
+    "index": 47,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "27",
+    "bounds": "216,1541,336,1661",
+    "children": []
+  },
+  {
+    "index": 48,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "28",
+    "bounds": "348,1541,468,1661",
+    "children": []
+  },
+  {
+    "index": 49,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "29",
+    "bounds": "480,1541,600,1661",
+    "children": []
+  },
+  {
+    "index": 50,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "30",
+    "bounds": "612,1541,732,1661",
+    "children": []
+  },
+  {
+    "index": 51,
+    "resourceId": "",
+    "className": "TextView",
+    "text": "31",
+    "bounds": "744,1541,864,1661",
+    "children": []
+  },
+  {
+    "index": 52,
+    "resourceId": "com.google.android.calendar:id/cancel_button",
+    "className": "Button",
+    "text": "Cancel",
+    "bounds": "583,1811,792,1955",
+    "children": []
+  },
+  {
+    "index": 53,
+    "resourceId": "com.google.android.calendar:id/confirm_button",
+    "className": "Button",
+    "text": "OK",
+    "bounds": "816,1811,1008,1955",
+    "children": []
+  }
+]

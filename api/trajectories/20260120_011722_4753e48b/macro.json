@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "description": "Archive the email from the inbox:\n    1. Make sure you're in the main inbox view (not search)\n    2. Scroll through the inbox to find the email with subject: \"Venue Confirmed: Q1 Project Review\"\n    3. Long press on that email to select it\n    4. Tap the Archive icon (box with down arrow) at the top toolbar\n    5. Wait for the email to be archived and disappear\n    \n    This removes the email from inbox but keeps it searchable in \"All Mail\".",
+  "timestamp": "20260120_011743",
+  "total_actions": 1,
+  "actions": [
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 31: 'Archive' (Button) at coordinates (600, 203)",
+      "x": 600,
+      "y": 203,
+      "element_index": 31,
+      "element_text": "Archive",
+      "element_bounds": "528,131,672,275"
+    }
+  ]
+}

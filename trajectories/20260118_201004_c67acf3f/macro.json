@@ -1,0 +1,164 @@
+{
+  "version": "1.0",
+  "description": "Open the Google Calendar app and schedule the following event:\n\nEvent Details:\n- Title: Budget Review\n- Date & Time: 2026-01-29 at 11:30 AM\n- Description: Meeting with John Smith at Finance Office. Purpose: Q1 Allocations\n\nExecution Steps:\n1. Launch the 'Google Calendar' app\n2. Tap the '+' (Create/Add) button at the bottom right\n3. Select 'Event' from the options\n4. In the 'Add title' field, type: \"Budget Review\"\n5. Set the date to \"2026-01-29\"\n6. Set the time to \"11:30 AM\"\n7. Scroll down if needed to find the description field\n8. Tap 'Add description' and type: \"Meeting with John Smith at Finance Office. Purpose: Q1 Allocations\"\n9. Verify all details are correct\n10. Tap the 'Save' button\n11. Wait for confirmation and return to the main calendar view\n\nImportant Notes:\n- Do NOT add any guests to this event\n- Do NOT add a location - the venue is included in the description\n- Ensure all fields are filled accurately\n- Wait for UI to stabilize between actions",
+  "timestamp": "20260118_201227",
+  "total_actions": 16,
+  "actions": [
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 57: 'Creation menu' (View) at coordinates (937, 2149)",
+      "x": 937,
+      "y": 2149,
+      "element_index": 57,
+      "element_text": "Creation menu",
+      "element_bounds": "860,2072,1014,2226"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 14: 'Event' (TextView) at coordinates (890, 1973)",
+      "x": 890,
+      "y": 1973,
+      "element_index": 14,
+      "element_text": "Event",
+      "element_bounds": "832,1940,948,2006"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 10: 'Add title' (EditText) at coordinates (595, 320)",
+      "x": 595,
+      "y": 320,
+      "element_index": 10,
+      "element_text": "Add title",
+      "element_bounds": "176,242,1014,398"
+    },
+    {
+      "type": "InputTextActionEvent",
+      "action_type": "input_text",
+      "description": "Input text: 'Budget Review' (clear=False)",
+      "text": "Budget Review"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 28: 'Sun, 18 Jan, 2026' (TextView) at coordinates (525, 1147)",
+      "x": 525,
+      "y": 1147,
+      "element_index": 28,
+      "element_text": "Sun, 18 Jan, 2026",
+      "element_bounds": "176,1081,874,1213"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 49: '29' (TextView) at coordinates (661, 1561)",
+      "x": 661,
+      "y": 1561,
+      "element_index": 49,
+      "element_text": "29",
+      "element_bounds": "606,1506,716,1616"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 53: 'OK' (Button) at coordinates (881, 1819)",
+      "x": 881,
+      "y": 1819,
+      "element_index": 53,
+      "element_text": "OK",
+      "element_bounds": "793,1753,969,1885"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 28: 'Thu, 29 Jan, 2026' (TextView) at coordinates (525, 1147)",
+      "x": 525,
+      "y": 1147,
+      "element_index": 28,
+      "element_text": "Thu, 29 Jan, 2026",
+      "element_bounds": "176,1081,874,1213"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 53: 'OK' (Button) at coordinates (881, 1819)",
+      "x": 881,
+      "y": 1819,
+      "element_index": 53,
+      "element_text": "OK",
+      "element_bounds": "793,1753,969,1885"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 29: '8:30 pm' (TextView) at coordinates (955, 1147)",
+      "x": 955,
+      "y": 1147,
+      "element_index": 29,
+      "element_text": "8:30 pm",
+      "element_bounds": "874,1081,1036,1213"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 10: '11' (TextView) at coordinates (403, 1072)",
+      "x": 403,
+      "y": 1072,
+      "element_index": 10,
+      "element_text": "11",
+      "element_bounds": "337,1006,469,1138"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 7: 'a.m.' (RadioButton) at coordinates (853, 683)",
+      "x": 853,
+      "y": 683,
+      "element_index": 7,
+      "element_text": "a.m.",
+      "element_bounds": "782,617,925,749"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 24: 'OK' (Button) at coordinates (881, 1800)",
+      "x": 881,
+      "y": 1800,
+      "element_index": 24,
+      "element_text": "OK",
+      "element_bounds": "793,1734,969,1866"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 48: 'Add location' (TextView) at coordinates (301, 2206)",
+      "x": 301,
+      "y": 2206,
+      "element_index": 48,
+      "element_text": "Add location",
+      "element_bounds": "176,2178,427,2234"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 2: 'Back' (ImageButton) at coordinates (88, 181)",
+      "x": 88,
+      "y": 181,
+      "element_index": 2,
+      "element_text": "Back",
+      "element_bounds": "11,104,165,258"
+    },
+    {
+      "type": "TapActionEvent",
+      "action_type": "tap",
+      "description": "Tap element at index 7: 'Collapse event sheet' (ImageButton) at coordinates (539, 159)",
+      "x": 539,
+      "y": 159,
+      "element_index": 7,
+      "element_text": "Collapse event sheet",
+      "element_bounds": "457,93,622,225"
+    }
+  ]
+}
